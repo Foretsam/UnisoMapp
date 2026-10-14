@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "curso": "Engenharia Mecânica",
+        "predio": "SAA",
+        "andar": "térreo",
+        "sala": "Laboratório Sthemda",
+        "professor": "Andreza Scatino - João Austo - André Vitor"
+    },
+    {
+        "id": 2,
+        "curso": "Engenharia de Produção",
+        "predio": "SAA",
+        "andar": "térreo",
+        "sala": "Laboratório Sthemda",
+        "professor": "Andreza Scatino - João Austo - André Vitor"
+    },
+    {
+        "id": 3,
+        "curso": "Engenharia de Alimentos",
+        "predio": "SAA",
+        "andar": "térreo",
+        "sala": "Laboratório Sthemda",
+        "professor": "Andreza Scatino - João Austo - André Vitor"
+    },
+    {
+        "id": 4,
+        "curso": "Medicina Veterinária",
+        "predio": "Veterinária",
+        "andar": "externo",
+        "sala": "Tenda em Frente a Clinica Veterinária",
+        "professor": "Fabia Viroel"
+    },
+    {
+        "id": 5,
+        "curso": "Medicina Veterinária",
+        "predio": "Veterinária",
+        "andar": "externo",
+        "sala": "Tenda em Frente a Clinica Veterinária",
+        "professor": "Fabio Custódio"
+    },
+    {
+        "id": 6,
+        "curso": "Medicina Veterinária",
+        "predio": "Veterinária",
+        "andar": "externo",
+        "sala": "Tenda em Frente a Clinica Veterinária",
+        "professor": "Murilo Dini"
+    },
+    {
+        "id": 7,
+        "curso": "Medicina Veterinária",
+        "predio": "Veterinária",
+        "andar": "externo",
+        "sala": "Tenda em Frente a Clinica Veterinária",
+        "professor": "Natalya Abduch"
+    },
+    {
+        "id": 8,
+        "curso": "Medicina Veterinária",
+        "predio": "Estacionamento",
+        "andar": "externo",
+        "sala": "Tenda Estacionamento",
+        "professor": "Andrea Higa"
+    },
+    {
+        "id": 9,
+        "curso": "Medicina Veterinária",
+        "predio": "Estacionamento",
+        "andar": "externo",
+        "sala": "Tenda Estacionamento",
+        "professor": "Claudia Leschonski"
+    },
+    {
+        "id": 10,
+        "curso": "Gestão de Equinocultura",
+        "predio": "Estacionamento",
+        "andar": "externo",
+        "sala": "Tenda Estacionamento",
+        "professor": "Rodrigo Bragança"
+    },
+    {
+        "id": 11,
+        "curso": "Engenharia Agronômica",
+        "predio": "Estacionamento",
+        "andar": "externo",
+        "sala": "Tenda Estacionamento",
+        "professor": "Heitor Zochio Fischer"
+    },
+    {
+        "id": 12,
+        "curso": "Engenharia Agronômica",
+        "predio": "Estacionamento",
+        "andar": "externo",
+        "sala": "Tenda Estacionamento",
+        "professor": "Henri Castelli"
+    },
+    {
+        "id": 13,
+        "curso": "Engenharia Agronômica",
+        "predio": "Estacionamento",
+        "andar": "externo",
+        "sala": "Tenda Estacionamento",
+        "professor": "Murilo Dini"
+    },
+    {
+        "id": 14,
+        "curso": "Engenharia Ambiental",
+        "predio": "Estacionamento",
+        "andar": "externo",
+        "sala": "Tenda Estacionamento",
+        "professor": "Bruno Gusmão Kanbach"
+    },
+    {
+        "id": 15,
+        "curso": "Ciências Biológias",
+        "predio": "Estacionamento",
+        "andar": "externo",
+        "sala": "Tenda Estacionamento",
+        "professor": "Thiago Marques"
+    }
+]

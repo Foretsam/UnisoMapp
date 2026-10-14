@@ -1,0 +1,706 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- Fonte usada -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+    <!-- Fonte usada -->
+    <!-- Css padrão de todas as páginas -->
+    <link rel="stylesheet" href="/src/geral.css">
+    <!-- Css padrão de todas as páginas -->
+    <link rel="stylesheet" href="/menu-links/menu-links-css/projeto-integrador.css">
+    <!-- Ícones usados -->
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <!-- Ícones usados -->
+</head>
+
+<body>
+    <div class="header-container">
+        <div class="header">
+            <div class="informacoes">
+                <h1 class="infotxt">PROJETO INTEGRADOR:</h1>
+            </div>
+        </div>
+    </div>
+    <div class="pesquisa-container">
+        <div class="input-group">
+            <input type="search" id="searchInput" placeholder="O que você procura? Curso ou prédio?">
+        </div>
+    </div>
+    </div>
+    <div class="parent-master">
+        <!-- Menu-desktop (Schuab) -->
+        <nav class="menuDesktop-sidebar">
+            <div class="menuDesktop-logo-menu">
+                <h2 class="menuDesktop-logo">Uniso Mapp</h2>
+
+                <i class="bx bx-menu menuDesktop-toggle-btn"></i>
+            </div>
+            <ul class="menuDesktop-list">
+                <li class="menuDesktop-list-item">
+                    <a href="/index.html">
+                        <i class="bx bxs-map"></i>
+                        <span class="menuDesktop-link-name" style="--i:1;
+                        ">Mapa</span>
+                    </a>
+                </li>
+                <li class="menuDesktop-list-item menuDesktop-active">
+                    <a href="/menu-links/menu-links-html/projeto-integrador.html">
+                        <i class='bx bx-calendar-event'></i>
+                        <span class="menuDesktop-link-name" style="--i:2;
+                        ">Eventos</span>
+                    </a>
+                </li>
+                <li class="menuDesktop-list-item">
+                    <a href="/menu-links/menu-links-html/informacoes.html">
+                        <i class='bx bx-info-circle'></i>
+                        <span class="menuDesktop-link-name" style="--i:3;
+                        ">Informações</span>
+                    </a>
+                </li>
+                <li class="menuDesktop-list-item">
+                    <a href="/menu-links/menu-links-html/servicos.html">
+                        <i class='bx bx-notepad'></i>
+                        <span class="menuDesktop-link-name" style="--i:4;
+                        ">Serviços</span>
+                    </a>
+                </li>
+                <li class="menuDesktop-list-item">
+                    <a href="/menu-links/menu-links-html/guia-do-aluno.html">
+                        <i class='bx bx-chat'></i>
+                        <span class="menuDesktop-link-name" style="--i:6;
+                        ">Guia dos Alunos</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <!-- Menu-mobile (Schuab) -->
+        <nav class="menuMobile-sidebar">
+            <div class="menuMobile-logo-menu">
+                <h2 class="menuMobile-logo">Uniso Mapp</h2>
+
+                <i class="bx bx-menu menuMobile-toggle-btn"></i>
+            </div>
+
+            <ul class="menuMobile-list">
+                <li class="menuMobile-list-item">
+                    <a href="/index.html">
+                        <i class="bx bxs-map"></i>
+                        <span class="menuMobile-link-name" style="--i:1;
+                        ">Mapa</span>
+                    </a>
+                </li>
+                <li class="menuMobile-list-item menuMobile-active">
+                    <a href="/menu-links/menu-links-html/projeto-integrador.html">
+                        <i class='bx bx-calendar-event'></i>
+                        <span class="menuMobile-link-name" style="--i:2;
+                        ">Eventos</span>
+                    </a>
+                </li>
+                <li class="menuMobile-list-item">
+                    <a href="/menu-links/menu-links-html/informacoes.html">
+                        <i class='bx bx-info-circle'></i>
+                        <span class="menuMobile-link-name" style="--i:3;
+                        ">Informações</span>
+                    </a>
+                </li>
+                <li class="menuMobile-list-item">
+                    <a href="/menu-links/menu-links-html/servicos.html">
+                        <i class='bx bx-notepad'></i>
+                        <span class="menuMobile-link-name" style="--i:4;
+                        ">Serviços</span>
+                    </a>
+                </li>
+                <li class="menuMobile-list-item">
+                    <a href="/menu-links/menu-links-html/guia-do-aluno.html">
+                        <i class='bx bx-chat'></i>
+                        <span class="menuMobile-link-name" style="--i:6;
+                        ">Guia dos Alunos</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <div class="eventos-main">
+            <div class="eventos-container">
+                <div class="eventos-card">
+                    <div class="eventos-image-content">
+                        <div class="eventos-card-image">
+                            <img src="/Imagens/eventos/card-images/card-blocof.jpeg" alt="" class="eventos-card-img">
+                        </div>
+                    </div>
+                    <div class="eventos-card-content">
+                        <h2 class="eventos-name">Foodtrucks</h2>
+                        <div class="eventos-separator"></div>
+                        <p class="eventos-description">Lanches e bebidas<br>Data: Sábado - 08/06
+                            <br>09:00 às 16:00
+                        </p>
+                        <button data-popup="eventos-popup1" class="eventos-open-btn eventos-saibamaisBtn">Saiba
+                            mais...</button>
+                        <div id="eventos-popup1" class="eventos-popup">
+                            <div class="eventos-popup-container">
+                                <h1 class="eventos-popup-title">Foodtrucks de:</h1>
+
+                                <p class="eventos-detailed-description">
+                                    Água de coco, Caldo de cana, <br>Chopp, Bebidas sem álcool, <br>Crepe,
+                                    Açaí,<br>Churros, Sorvete, <br>Donuts, Espetinho, <br>Hamburguer, Cachorro Quente,
+                                    <br>Pastel, Comida vegana,<br>Milho cozido, Batata no cone, <br>Pizza
+                                </p>
+                                <div class="popup-footer">
+                                    <button class="eventos-vernomapaBtn-foodTrucks"
+                                        id="eventos-vernomapaBtn-foodTrucks">Veja no mapa!</button>
+                                    <button onclick="foodtrucks()" class="eventos-cronograma-detalhadoBTN">Confira o
+                                        Cronograma!</a></button>
+                                </div>
+                                <div class="eventos-close">
+                                    <i class='bx bx-x'></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="eventos-card">
+                    <div class="eventos-image-content">
+                        <div class="eventos-card-image">
+                            <img src="/Imagens/eventos/card-images/card-blocoa.jpeg" alt="" class="eventos-card-img">
+                        </div>
+                    </div>
+                    <div class="eventos-card-content">
+                        <h2 class="eventos-name">Projetos - Bloco A</h2>
+                        <div class="eventos-separator"></div>
+                        <p class="eventos-description">Projetos no Bloco A<br>Data: Sábado - 08/06
+                            <br>09:00 às 16:00
+                        </p>
+                        <button data-popup="eventos-popup2" class="eventos-open-btn eventos-saibamaisBtn">Saiba
+                            mais...</button>
+                        <div id="eventos-popup2" class="eventos-popup">
+                            <div class="eventos-popup-container">
+                                <h1 class="eventos-popup-title">Cursos sendo apresentados:</h1>
+                                <p class="eventos-detailed-description">
+                                    Fisioterapia, <br>Terapia Ocupacional, <br>Psicologia, <br>Relações Internacionais,
+                                    <br>Eng. de Bioprocessos e Biotecnologia, <br>Farmácia, <br>Comércio Exterior,
+                                    <br>Administração, <br>Biomedicina, <br>Artes Visuais, <br>Engenharia Química
+                                </p>
+                                <div class="popup-footer">
+                                    <button class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no
+                                        mapa!</button>
+                                    <button onclick="blocoa()" class="eventos-cronograma-detalhadoBTN">Confira o
+                                        Cronograma!</a></button>
+                                </div>
+                                <div class="eventos-close">
+                                    <i class='bx bx-x'></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="eventos-card">
+                    <div class="eventos-image-content">
+                        <div class="eventos-card-image">
+                            <img src="/Imagens/eventos/card-images/card-blocob.jpeg" alt="" class="eventos-card-img">
+                        </div>
+                    </div>
+                    <div class="eventos-card-content">
+                        <h2 class="eventos-name">Projetos - Bloco B</h2>
+                        <div class="eventos-separator"></div>
+                        <p class="eventos-description">Projetos no Bloco B<br>Data: Sábado - 08/06
+                            <br>09:00 às 16:00
+                        </p>
+                        <button data-popup="eventos-popup3" class="eventos-open-btn eventos-saibamaisBtn">Saiba
+                            mais...</button>
+                        <div id="eventos-popup3" class="eventos-popup">
+                            <div class="eventos-popup-container">
+                                <h1 class="eventos-popup-title">Cursos sendo apresentados:</h1>
+
+                                <p class="eventos-detailed-description">
+                                    Publicidade e Propaganda, <br>Relações Públicas, <br>Jornalismo
+                                </p>
+                                <div class="popup-footer">
+                                    <button class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no
+                                        mapa!</button>
+                                    <button onclick="blocob()" class="eventos-cronograma-detalhadoBTN">Confira o
+                                        Cronograma!</a></button>
+                                </div>
+                                <div class="eventos-close">
+                                    <i class='bx bx-x'></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="eventos-card">
+                    <div class="eventos-image-content">
+                        <div class="eventos-card-image">
+                            <img src="/Imagens/eventos/card-images/card-blococ.jpeg" alt="" class="eventos-card-img">
+                        </div>
+                    </div>
+                    <div class="eventos-card-content">
+                        <h2 class="eventos-name">Projetos - Bloco C</h2>
+                        <div class="eventos-separator"></div>
+                        <p class="eventos-description">Projetos no Bloco C<br>Data: Sábado - 08/06
+                            <br>09:00 às 16:00
+                        </p>
+                        <button data-popup="eventos-popup4" class="eventos-open-btn eventos-saibamaisBtn">Saiba
+                            mais...</button>
+                        <div id="eventos-popup4" class="eventos-popup">
+                            <div class="eventos-popup-container">
+                                <h1 class="eventos-popup-title">Cursos sendo apresentados:</h1>
+
+                                <p class="eventos-detailed-description">
+                                    Estética e Cosmética, <br>Farmácia, <br>Fonoaudiologia, <br>Eng. de Bioprocessos e
+                                    Biotecnologia, <br>Administração, <br>Gestão Comercial, <br>Marketing, <br>Processos
+                                    Gerenciais, <br>Ciências Contábeis, <br>Ciências Econômicas
+                                </p>
+                                <div class="popup-footer">
+                                    <button class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no
+                                        mapa!</button>
+                                    <button onclick="blococ()" class="eventos-cronograma-detalhadoBTN">Confira o
+                                        Cronograma!</a></button>
+                                </div>
+                                <div class="eventos-close">
+                                    <i class='bx bx-x'></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="eventos-card">
+                    <div class="eventos-image-content">
+                        <div class="eventos-card-image">
+                            <img src="/Imagens/eventos/card-images/card-blocod.jpeg" alt="" class="eventos-card-img">
+                        </div>
+                    </div>
+                    <div class="eventos-card-content">
+                        <h2 class="eventos-name">Projetos - Bloco D</h2>
+                        <div class="eventos-separator"></div>
+                        <p class="eventos-description">Projetos no Bloco D<br>Data: Sábado - 08/06
+                            <br>09:00 às 16:00
+                        </p>
+                        <button data-popup="eventos-popup5" class="eventos-open-btn eventos-saibamaisBtn">Saiba
+                            mais...</button>
+                        <div id="eventos-popup5" class="eventos-popup">
+                            <div class="eventos-popup-container">
+                                <h1 class="eventos-popup-title">Cursos sendo apresentados:</h1>
+
+                                <p class="eventos-detailed-description">
+                                    Moda, <br>Teatro, <br>Enfermagem
+                                </p>
+                                <div class="popup-footer">
+                                    <button class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no
+                                        mapa!</button>
+                                    <button onclick="blocod()" class="eventos-cronograma-detalhadoBTN">Confira o
+                                        Cronograma!</a></button>
+                                </div>
+                                <div class="eventos-close">
+                                    <i class='bx bx-x'></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="eventos-card">
+                    <div class="eventos-image-content">
+                        <div class="eventos-card-image">
+                            <img src="/Imagens/eventos/card-images/card-blocoe.jpeg" alt="" class="eventos-card-img">
+                        </div>
+                    </div>
+                    <div class="eventos-card-content">
+                        <h2 class="eventos-name">Projetos - Bloco E</h2>
+                        <div class="eventos-separator"></div>
+                        <p class="eventos-description">Projetos no Bloco E<br>Data: Sábado - 08/06
+                            <br>09:00 às 16:00
+                        </p>
+                        <button data-popup="eventos-popup6" class="eventos-open-btn eventos-saibamaisBtn">Saiba
+                            mais...</button>
+                        <div id="eventos-popup6" class="eventos-popup">
+                            <div class="eventos-popup-container">
+                                <h1 class="eventos-popup-title">Cursos sendo apresentados:</h1>
+
+                                <p class="eventos-detailed-description">
+                                    Eng. de Controle e Automação, <br>Eng. Mecânica, <br>Eng. Elétrica, <br>Eng.
+                                    Química, <br>Eng. de Alimentos
+                                </p>
+                                <div class="popup-footer">
+                                    <button class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no
+                                        mapa!</button>
+                                    <button onclick="blocoe()" class="eventos-cronograma-detalhadoBTN">Confira o
+                                        Cronograma!</a></button>
+                                </div>
+                                <div class="eventos-close">
+                                    <i class='bx bx-x'></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="eventos-card">
+                    <div class="eventos-image-content">
+                        <div class="eventos-card-image">
+                            <img src="/Imagens/eventos/card-images/card-blocof.jpeg" alt="" class="eventos-card-img">
+                        </div>
+                    </div>
+                    <div class="eventos-card-content">
+                        <h2 class="eventos-name">Projetos - Bloco F</h2>
+                        <div class="eventos-separator"></div>
+                        <p class="eventos-description">Projetos no Bloco F<br>Data: Sábado - 08/06
+                            <br>09:00 às 16:00
+                        </p>
+                        <button data-popup="eventos-popup7" class="eventos-open-btn eventos-saibamaisBtn">Saiba
+                            mais...</button>
+                        <div id="eventos-popup7" class="eventos-popup">
+                            <div class="eventos-popup-container">
+                                <h1 class="eventos-popup-title">Cursos sendo apresentados:</h1>
+
+                                <p class="eventos-detailed-description">
+                                    Direito, <br>Jogos Digitais, Publicidade e Propaganda, <br>Marketing, Logística,
+                                    <br>Gestão da Qualidade, Ciências Biológicas, <br>Comércio Exterior, Gestão
+                                    Comercial, <br>Gestão Financeira, Processos Gerenciais, <br>Gestão de Recursos
+                                    Humanos, Ciências de Dados e I.A, <br>Eng. da Computação, <br>Análise e
+                                    Desenvolvimento de Sistemas
+                                </p>
+                                <div class="popup-footer">
+                                    <button class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no
+                                        mapa!</button>
+                                    <button onclick="blocof()" class="eventos-cronograma-detalhadoBTN">Confira o
+                                        Cronograma!</a></button>
+                                </div>
+                                <div class="eventos-close">
+                                    <i class='bx bx-x'></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="eventos-card">
+                    <div class="eventos-image-content">
+                        <div class="eventos-card-image">
+                            <img src="/Imagens/eventos/card-images/card-apoio1.jpeg" alt="" class="eventos-card-img">
+                        </div>
+                    </div>
+                    <div class="eventos-card-content">
+                        <h2 class="eventos-name">Projetos - Apoio 1</h2>
+                        <div class="eventos-separator"></div>
+                        <p class="eventos-description">Projetos no Apoio 1<br>Data: Sábado - 08/06
+                            <br>09:00 às 16:00
+                        </p>
+                        <button data-popup="eventos-popup8" class="eventos-open-btn eventos-saibamaisBtn">Saiba
+                            mais...</button>
+                        <div id="eventos-popup8" class="eventos-popup">
+                            <div class="eventos-popup-container">
+                                <h1 class="eventos-popup-title">Cursos sendo apresentados:</h1>
+
+                                <p class="eventos-detailed-description">
+                                    <br>Música
+                                </p>
+                                <div class="popup-footer">
+                                    <button class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no
+                                        mapa!</button>
+                                    <button onclick="apoios()" class="eventos-cronograma-detalhadoBTN">Confira o
+                                        Cronograma!</a></button>
+                                </div>
+                                <div class="eventos-close">
+                                    <i class='bx bx-x'></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="eventos-card">
+                    <div class="eventos-image-content">
+                        <div class="eventos-card-image">
+                            <img src="/Imagens/eventos/card-images/card-apoio2.jpeg" alt="" class="eventos-card-img">
+                        </div>
+                    </div>
+                    <div class="eventos-card-content">
+                        <h2 class="eventos-name">Projetos - Apoio 2</h2>
+                        <div class="eventos-separator"></div>
+                        <p class="eventos-description">Projetos no Apoio 2<br>Data: Sábado - 08/06
+                            <br>09:00 às 16:00
+                        </p>
+                        <button data-popup="eventos-popup9" class="eventos-open-btn eventos-saibamaisBtn">Saiba
+                            mais...</button>
+                        <div id="eventos-popup9" class="eventos-popup">
+                            <div class="eventos-popup-container">
+                                <h1 class="eventos-popup-title">Cursos sendo apresentados:</h1>
+
+                                <p class="eventos-detailed-description">
+                                    Terapia Ocupacional
+                                </p>
+                                <div class="popup-footer">
+                                    <button class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no
+                                        mapa!</button>
+                                    <button onclick="apoios()" class="eventos-cronograma-detalhadoBTN">Confira o
+                                        Cronograma!</a></button>
+                                </div>
+                                <div class="eventos-close">
+                                    <i class='bx bx-x'></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="eventos-card">
+                    <div class="eventos-image-content">
+                        <div class="eventos-card-image">
+                            <img src="/Imagens/eventos/card-images/card-apoio3.jpeg" alt="" class="eventos-card-img">
+                        </div>
+                    </div>
+                    <div class="eventos-card-content">
+                        <h2 class="eventos-name">Projetos - Apoio 3</h2>
+                        <div class="eventos-separator"></div>
+                        <p class="eventos-description">Projetos no Apoio 3<br>Data: Sábado - 08/06
+                            <br>09:00 às 16:00
+                        </p>
+                        <button data-popup="eventos-popup10" class="eventos-open-btn eventos-saibamaisBtn">Saiba
+                            mais...</button>
+                        <div id="eventos-popup10" class="eventos-popup">
+                            <div class="eventos-popup-container">
+                                <h1 class="eventos-popup-title">Cursos sendo apresentados:</h1>
+
+                                <p class="eventos-detailed-description">
+                                    Gastronomia, <br>Nutrição, <br>Engenharia de Alimentos
+                                </p>
+                                <div class="popup-footer">
+                                    <button class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no
+                                        mapa!</button>
+                                    <button onclick="apoios()" class="eventos-cronograma-detalhadoBTN">Confira o
+                                        Cronograma!</a></button>
+                                </div>
+                                <div class="eventos-close">
+                                    <i class='bx bx-x'></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="eventos-card">
+                    <div class="eventos-image-content">
+                        <div class="eventos-card-image">
+                            <img src="/Imagens/eventos/card-images/card-apoio4.jpeg" alt="" class="eventos-card-img">
+                        </div>
+                    </div>
+                    <div class="eventos-card-content">
+                        <h2 class="eventos-name">Projetos - Apoio 4</h2>
+                        <div class="eventos-separator"></div>
+                        <p class="eventos-description">Projetos no Apoio 4<br>Data: Sábado - 08/06
+                            <br>09:00 às 16:00
+                        </p>
+                        <button data-popup="eventos-popup11" class="eventos-open-btn eventos-saibamaisBtn">Saiba
+                            mais...</button>
+                        <div id="eventos-popup11" class="eventos-popup">
+                            <div class="eventos-popup-container">
+                                <h1 class="eventos-popup-title">Cursos sendo apresentados:</h1>
+
+                                <p class="eventos-detailed-description">
+                                    Odontologia
+                                </p>
+                                <div class="popup-footer">
+                                    <button class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no
+                                        mapa!</button>
+                                    <button onclick="apoios()" class="eventos-cronograma-detalhadoBTN">Confira o
+                                        Cronograma!</a></button>
+                                </div>
+                                <div class="eventos-close">
+                                    <i class='bx bx-x'></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="eventos-card">
+                    <div class="eventos-image-content">
+                        <div class="eventos-card-image">
+                            <img src="/Imagens/eventos/card-images/card-biblioteca.jpeg" alt=""
+                                class="eventos-card-img">
+                        </div>
+                    </div>
+                    <div class="eventos-card-content">
+                        <h2 class="eventos-name">Projetos - Biblioteca</h2>
+                        <div class="eventos-separator"></div>
+                        <p class="eventos-description">Projetos na Biblioteca<br>Data: Sábado - 08/06
+                            <br>09:00 às 16:00
+                        </p>
+                        <button data-popup="eventos-popup12" class="eventos-open-btn eventos-saibamaisBtn">Saiba
+                            mais...</button>
+                        <div id="eventos-popup12" class="eventos-popup">
+                            <div class="eventos-popup-container">
+                                <h1 class="eventos-popup-title">Cursos sendo apresentados:</h1>
+
+                                <p class="eventos-detailed-description">
+                                    Eng. Química, <br>Eng. Ambiental, <br>Design de Interiores, <br>Arquitetura e
+                                    Urbanismo, <br>Design, <br>Pedagogia, <br>Educação Física, <br>Estética e Cosmética,
+                                    <br>Psicologia, <br>Administração, <br>Artes Visuais, <br>Química Industrial
+                                </p>
+                                <div class="popup-footer">
+                                    <button class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no
+                                        mapa!</button>
+                                    <button onclick="biblioteca()" class="eventos-cronograma-detalhadoBTN">Confira o
+                                        Cronograma!</a></button>
+                                </div>
+                                <div class="eventos-close">
+                                    <i class='bx bx-x'></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="eventos-card">
+                    <div class="eventos-image-content">
+                        <div class="eventos-card-image">
+                            <img src="/Imagens/eventos/card-images/card-SAA.jpeg" alt="" class="eventos-card-img">
+                        </div>
+                    </div>
+                    <div class="eventos-card-content">
+                        <h2 class="eventos-name">Projetos - SAA</h2>
+                        <div class="eventos-separator"></div>
+                        <p class="eventos-description">Projetos no SAA<br>Data: Sábado - 08/06
+                            <br>09:00 às 16:00
+                        </p>
+                        <button data-popup="eventos-popup13" class="eventos-open-btn eventos-saibamaisBtn">Saiba
+                            mais...</button>
+                        <div id="eventos-popup13" class="eventos-popup">
+                            <div class="eventos-popup-container">
+                                <h1 class="eventos-popup-title">Cursos sendo apresentados:</h1>
+
+                                <p class="eventos-detailed-description">
+                                    Eng. Mecânica, Eng. de Produção, <br>Eng. de Alimentos
+                                </p>
+                                <div class="popup-footer">
+                                    <button class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no
+                                        mapa!</button>
+                                    <button onclick="outros()" class="eventos-cronograma-detalhadoBTN">Confira o
+                                        Cronograma!</a></button>
+                                </div>
+                                <div class="eventos-close">
+                                    <i class='bx bx-x'></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="eventos-card">
+                    <div class="eventos-image-content">
+                        <div class="eventos-card-image">
+                            <img src="/Imagens/eventos/card-images/card-veterinaria.jpeg" alt=""
+                                class="eventos-card-img">
+                        </div>
+                    </div>
+                    <div class="eventos-card-content">
+                        <h2 class="eventos-name">Projetos - Veterinária</h2>
+                        <div class="eventos-separator"></div>
+                        <p class="eventos-description">Projetos na Veterinária<br>Data: Sábado - 08/06
+                            <br>09:00 às 16:00
+                        </p>
+                        <button data-popup="eventos-popup14" class="eventos-open-btn eventos-saibamaisBtn">Saiba
+                            mais...</button>
+                        <div id="eventos-popup14" class="eventos-popup">
+                            <div class="eventos-popup-container">
+                                <h1 class="eventos-popup-title">Cursos sendo apresentados:</h1>
+
+                                <p class="eventos-detailed-description">
+                                    Medicina Veterinária, <br>
+                                </p>
+                                <div class="popup-footer">
+                                    <button class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no
+                                        mapa!</button>
+                                    <button onclick="outros()" class="eventos-cronograma-detalhadoBTN">Confira o
+                                        Cronograma!</a></button>
+                                </div>
+                                <div class="eventos-close">
+                                    <i class='bx bx-x'></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="eventos-card">
+                    <div class="eventos-image-content">
+                        <div class="eventos-card-image">
+                            <img src="/Imagens/eventos/card-images/card-lapec.jpeg" alt="" class="eventos-card-img">
+                        </div>
+                    </div>
+                    <div class="eventos-card-content">
+                        <h2 class="eventos-name">Projetos - LAPEC</h2>
+                        <div class="eventos-separator"></div>
+                        <p class="eventos-description">Projetos no LAPEC<br>Data: Sábado - 08/06
+                            <br>09:00 às 16:00
+                        </p>
+                        <button data-popup="eventos-popup15" class="eventos-open-btn eventos-saibamaisBtn">Saiba
+                            mais...</button>
+                        <div id="eventos-popup15" class="eventos-popup">
+                            <div class="eventos-popup-container">
+                                <h1 class="eventos-popup-title">Cursos sendo apresentados:</h1>
+
+                                <p class="eventos-detailed-description">
+
+                                    <br>Engenharia civil
+                                </p>
+                                <div class="popup-footer">
+                                    <button class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no
+                                        mapa!</button>
+                                    <button onclick="outros()" class="eventos-cronograma-detalhadoBTN">Confira o
+                                        Cronograma!</a></button>
+                                </div>
+                                <div class="eventos-close">
+                                    <i class='bx bx-x'></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="eventos-card">
+                    <div class="eventos-image-content">
+                        <div class="eventos-card-image">
+                            <img src="/Imagens/eventos/card-images/card-lapec.jpeg" alt="" class="eventos-card-img">
+                        </div>
+                    </div>
+                    <div class="eventos-card-content">
+                        <h2 class="eventos-name">Projetos - Estacionamentos</h2>
+                        <div class="eventos-separator"></div>
+                        <p class="eventos-description">Projetos nos Estacionamentos<br>Data: Sábado - 08/06
+                            <br>09:00 às 16:00
+                        </p>
+                        <button data-popup="eventos-popup16" class="eventos-open-btn eventos-saibamaisBtn">Saiba
+                            mais...</button>
+                        <div id="eventos-popup16" class="eventos-popup">
+                            <div class="eventos-popup-container">
+                                <h1 class="eventos-popup-title">Cursos sendo apresentados:</h1>
+
+                                <p class="eventos-detailed-description">
+                                    Medicina Veterinária, <br>Gestão de Equinocultura, <br>Eng. Agronômica, <br>Eng.
+                                    Ambiental, <br>Ciências Biológicas
+                                </p>
+                                <div class="popup-footer">
+                                    <button class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no
+                                        mapa!</button>
+                                    <button onclick="outros()" class="eventos-cronograma-detalhadoBTN">Confira o
+                                        Cronograma!</a></button>
+                                </div>
+                                <div class="eventos-close">
+                                    <i class='bx bx-x'></i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<!-- Uso geral de ícones -->
+<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+<!-- Uso geral de ícones -->
+<!-- Script geral de todas as páginas -->
+<script src="/src/geral.js"></script>
+<!-- Script geral de todas as páginas -->
+<script src="/menu-links/menu-links-js/projeto-integrador.js"></script>
+</body>
+
+</html>

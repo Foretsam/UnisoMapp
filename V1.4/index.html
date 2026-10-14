@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uniso Mapp</title>
+    <!-- Mapa css -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <link rel="stylesheet" href="src/index.css">
+    <!-- Mapa css -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <!-- Leaflet -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@latest/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.css" />
+    <!-- Mapa css -->
+    <!-- Fonte css -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+    <!-- Font css -->
+    <!-- css geral -->
+    <link rel="stylesheet" href="src/geral.css">
+    <!-- css geral -->
+    <!-- css pag-princpal(index) -->
+    <!-- <link rel="stylesheet" href="src/pag-principal.css"> -->
+    <!-- css pag-princpal(index) -->
+    <!-- Ícones -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+    <!-- Font css -->
+    <!-- css geral -->
+    <!-- <link rel="stylesheet" href="/src/geral.css"> -->
+    <!-- css geral -->
+    <!-- css pag-princpal(index) -->
+    <!-- <link rel="stylesheet" href="/src/index.css"> -->
+    <!-- css pag-princpal(index) -->
+    <!-- Ícones -->
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <!-- Ícones -->
+</head>
+
+<body>
+    <div class="parent-master">
+        <!-- Menu-desktop (Schuab) -->
+        <nav class="menuDesktop-sidebar">
+            <div class="menuDesktop-logo-menu">
+                <h2 class="menuDesktop-logo">Uniso Mapp</h2>
+
+                <i class="bx bx-menu menuDesktop-toggle-btn"></i>
+            </div>
+            <ul class="menuDesktop-list">
+                <li class="menuDesktop-list-item menuDesktop-active">
+                    <a href="/index.html">
+                        <i class="bx bxs-map"></i>
+                        <span class="menuDesktop-link-name" style="--i:1;
+                        ">Mapa</span>
+                    </a>
+                </li>
+                <li class="menuDesktop-list-item">
+                    <a href="menu-links/menu-links-html/projeto-integrador.html">
+                        <i class='bx bx-calendar-event'></i>
+                        <span class="menuDesktop-link-name" style="--i:2;
+                        ">Eventos</span>
+                    </a>
+                </li>
+                <li class="menuDesktop-list-item">
+                    <a href="/menu-links/menu-links-html/informacoes.html">
+                        <i class='bx bx-info-circle'></i>
+                        <span class="menuDesktop-link-name" style="--i:3;
+                        ">Informações</span>
+                    </a>
+                </li>
+                <li class="menuDesktop-list-item">
+                    <a href="/menu-links/menu-links-html/servicos.html">
+                        <i class='bx bx-notepad'></i>
+                        <span class="menuDesktop-link-name" style="--i:4;
+                        ">Serviços</span>
+                    </a>
+                </li>
+                <li class="menuDesktop-list-item">
+                    <a href="/menu-links/menu-links-html/guia-do-aluno.html">
+                        <i class='bx bx-chat'></i>
+                        <span class="menuDesktop-link-name" style="--i:6;
+                        ">Guia dos Alunos</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <!-- Menu-mobile (Schuab) -->
+        <nav class="menuMobile-sidebar">
+            <div class="menuMobile-logo-menu">
+                <h2 class="menuMobile-logo">Uniso Mapp</h2>
+
+                <i class="bx bx-menu menuMobile-toggle-btn"></i>
+            </div>
+
+            <ul class="menuMobile-list">
+                <li class="menuMobile-list-item menuMobile-active">
+                    <a href="/index.html">
+                        <i class="bx bxs-map"></i>
+                        <span class="menuMobile-link-name" style="--i:1;
+                        ">Mapa</span>
+                    </a>
+                </li>
+                <li class="menuMobile-list-item">
+                    <a href="/menu-links/menu-links-html/projeto-integrador.html">
+                        <i class='bx bx-calendar-event'></i>
+                        <span class="menuMobile-link-name" style="--i:2;
+                        ">Eventos</span>
+                    </a>
+                </li>
+                <li class="menuMobile-list-item">
+                    <a href="/menu-links/menu-links-html/informacoes.html">
+                        <i class='bx bx-info-circle'></i>
+                        <span class="menuMobile-link-name" style="--i:3;
+                        ">Informações</span>
+                    </a>
+                </li>
+                <li class="menuMobile-list-item">
+                    <a href="/menu-links/menu-links-html/servicos.html">
+                        <i class='bx bx-notepad'></i>
+                        <span class="menuMobile-link-name" style="--i:4;
+                        ">Serviços</span>
+                    </a>
+                </li>
+                <li class="menuMobile-list-item">
+                    <a href="/menu-links/menu-links-html/guia-do-aluno.html">
+                        <i class='bx bx-chat'></i>
+                        <span class="menuMobile-link-name" style="--i:6;
+                        ">Guia dos Alunos</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <div class="index-main">
+            <!-- Mapa -->
+            <div id="map" style="width: 100%; height: 100vh;"></div>
+            <!--barra de pesquisa-->
+            <input type="search" class="search-input" placeholder="Pesquise por salas, prédios ou laboratórios.">
+            <!-- carrossel -->
+            <div class="carrossel-button-container">
+
+                <button class="carrossel-action-button" id="show-clear">Limpar</button>
+                <button class="carrossel-action-button" id="locate-user">Onde estou?</button>
+                <button class="carrossel-action-button" id="show-blocos">Prédios</button>
+                <button class="carrossel-action-button" id="show-pracas">Praças</button>
+                <!-- <button class="carrossel-action-button" id="show-apoios">Apoios</button> -->
+                <button class="carrossel-action-button" id="show-cantinas">Cantinas</button>
+                <!-- <button class="carrossel-action-button" id="show-laboratorios">Laboratórios</button> -->
+                <button class="carrossel-action-button" id="show-bikes">Bikes</button>
+                <button class="carrossel-action-button" id="show-banheiros">Banheiros</button>
+            </div>
+        </div>
+    </div>
+</body>
+<!-- Mapa js-->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="https://unpkg.com/leaflet@latest/dist/leaflet.js"></script>
+<!-- Leaflet Routing Machine -->
+<script src="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.min.js"></script>
+<!-- Leaflet Routing Machine - OpenRoute Service -->
+<script
+    src="https://unpkg.com/@gegeweb/leaflet-routing-machine-openroute@latest/dist/leaflet-routing-openroute.min.js"></script>
+<!-- Mapa js -->
+<script src="src/mapscripts.js" async></script>
+<!-- Ícones -->
+<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+<!-- Ícones -->
+<!-- scripts geral -->
+<script src="src/geral.js"></script>
+
+</html>

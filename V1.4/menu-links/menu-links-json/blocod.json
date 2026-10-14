@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "curso": "Moda",
+        "predio": "Bloco D",
+        "andar": "térreo",
+        "sala": "Auditório bloco D",
+        "professor": "Ayme - Flavio"
+    },
+    {
+        "id": 2,
+        "curso": "Moda",
+        "predio": "Bloco D",
+        "andar": "térreo",
+        "sala": "Laboratório de Moda",
+        "professor": "Ayme - Flavio"
+    },
+    {
+        "id": 3,
+        "curso": "Teatro",
+        "predio": "Bloco D",
+        "andar": "1º andar",
+        "sala": "BLD- 108 Sala de Música",
+        "professor": "Tania"
+    },
+    {
+        "id": 4,
+        "curso": "Enfermagem",
+        "predio": "Bloco D",
+        "andar": "2º andar",
+        "sala": "BLD-202",
+        "professor": "Clayton - Iara - Irineu"
+    },
+    {
+        "id": 5,
+        "curso": "Enfermagem",
+        "predio": "Bloco D",
+        "andar": "2º andar",
+        "sala": "BLD-203",
+        "professor": "Clayton - Iara - Irineu"
+    },
+    {
+        "id": 6,
+        "curso": "Enfermagem",
+        "predio": "Bloco D",
+        "andar": "2º andar",
+        "sala": "BLD-204",
+        "professor": "Clayton - Iara - Irineu"
+    },
+    {
+        "id": 7,
+        "curso": "Enfermagem",
+        "predio": "Bloco D",
+        "andar": "2º andar",
+        "sala": "BLD-207",
+        "professor": "Clayton - Iara - Irineu"
+    }
+]

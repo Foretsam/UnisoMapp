@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "nome": "Léo Caldo de Cana",
+        "categoria": "Água de coco e Caldo de cana",
+        "local": "Em frente ao Bloco A"
+    },
+    {
+        "id": 2,
+        "nome": "Estação Beer",
+        "categoria": "Chopp",
+        "local": "Em frente ao Bloco B"
+    },
+    {
+        "id": 3,
+        "nome": "Banana Beer",
+        "categoria": "Chopp",
+        "local": "Em frente ao SAA"
+    },
+    {
+        "id": 4,
+        "nome": "Sanches",
+        "categoria": "Chopp",
+        "local": "Em frente ao Bloco A"
+    },
+    {
+        "id": 5,
+        "nome": "J Drinks",
+        "categoria": "Bebidas sem álcool",
+        "local": "Em frente ao SAA"
+    },
+    {
+        "id": 6,
+        "nome": "Creperia La Crepe Francês",
+        "categoria": "Crepe",
+        "local": "Em frente ao SAA"
+    },
+    {
+        "id": 7,
+        "nome": "Totem do Açaí",
+        "categoria": "Açaí",
+        "local": "Em frente ao Bloco A"
+    },
+    {
+        "id": 8,
+        "nome": "Gelato Churros",
+        "categoria": "Churros e Sorvete",
+        "local": "Em frente ao Bloco A"
+    },
+    {
+        "id": 9,
+        "nome": "We Donuts",
+        "categoria": "Donuts",
+        "local": "Em frente ao Bloco A"
+    },
+    {
+        "id": 10,
+        "nome": "Fresco",
+        "categoria": "Sorvete",
+        "local": "Em frente ao Bloco A"
+    },
+    {
+        "id": 11,
+        "nome": "Kombi na Brasa",
+        "categoria": "Espetinho",
+        "local": "Em frente ao Bloco B"
+    },
+    {
+        "id": 12,
+        "nome": "Espetinhos do Japa",
+        "categoria": "Espetinho",
+        "local": "Em frente ao SAA"
+    },
+    {
+        "id": 13,
+        "nome": "Garrucha",
+        "categoria": "Hamburguer",
+        "local": "Em frente ao Bloco B"
+    },
+    {
+        "id": 14,
+        "nome": "Mariano BBQ",
+        "categoria": "Hamburguer na brasa",
+        "local": "Em frente ao SAA"
+    },
+    {
+        "id": 15,
+        "nome": "Somos Fastfood",
+        "categoria": "Hamburguer, Cachorro Quente e Batatas",
+        "local": "Em frente ao SAA"
+    },
+    {
+        "id": 16,
+        "nome": "RebaiCachorro Quenteados Dog",
+        "categoria": "Cachorro Quente",
+        "local": "Em frente ao Bloco A"
+    },
+    {
+        "id": 17,
+        "nome": "Roma Lanches",
+        "categoria": "Cachorro Quente",
+        "local": "Em frente ao Bloco A"
+    },
+    {
+        "id": 18,
+        "nome": "Truckostela",
+        "categoria": "Lanche defumado",
+        "local": "Em frente ao SAA"
+    },
+    {
+        "id": 19,
+        "nome": "Ponto do Pastel",
+        "categoria": "Pastel",
+        "local": "Em frente ao SAA"
+    },
+    {
+        "id": 20,
+        "nome": "Pastel do Le",
+        "categoria": "Pastel",
+        "local": "Em frente ao Bloco A"
+    },
+    {
+        "id": 21,
+        "nome": "Couve Flor Bistrô",
+        "categoria": "Comida vegana",
+        "local": "Em frente ao Bloco B"
+    },
+    {
+        "id": 22,
+        "nome": "Milho Cozido do Roque",
+        "categoria": "Milho cozido",
+        "local": "Em frente ao Bloco B"
+    },
+    {
+        "id": 23,
+        "nome": "Batata Retrô",
+        "categoria": "Batata no cone",
+        "local": "Em frente ao Bloco B"
+    },
+    {
+        "id": 24,
+        "nome": "Soul Pizzas",
+        "categoria": "Pizzaria",
+        "local": "Em frente ao Bloco B"
+    }
+]

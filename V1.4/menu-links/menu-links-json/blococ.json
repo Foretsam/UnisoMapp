@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "curso": "Estética e Cosmética",
+        "predio": "Bloco C",
+        "andar": "térreo",
+        "sala": "Centro de Estética - A",
+        "professor": "Walkiria - Ederson"
+    },
+    {
+        "id": 2,
+        "curso": "Farmácia",
+        "predio": "Bloco C",
+        "andar": "1º andar",
+        "sala": "BLC-101-A",
+        "professor": "Juliana "
+    },
+    {
+        "id": 3,
+        "curso": "Fonoaudiologia",
+        "predio": "Bloco C",
+        "andar": "1º andar",
+        "sala": "BLC-103",
+        "professor": "Matheus - Monique"
+    },
+    {
+        "id": 4,
+        "curso": "Engenharia de Bioprocessos e Biotecnologia",
+        "predio": "Bloco C",
+        "andar": "1º andar",
+        "sala": "BLC-104-A",
+        "professor": "Renata "
+    },
+    {
+        "id": 5,
+        "curso": "Fonoaudiologia",
+        "predio": "Bloco C",
+        "andar": "1º andar",
+        "sala": "Clínica de Fonoaudiologia",
+        "professor": "Matheus - Monique"
+    },
+    {
+        "id": 6,
+        "curso": "Fonoaudiologia",
+        "predio": "Bloco C",
+        "andar": "1º andar",
+        "sala": "BLC-108",
+        "professor": "Matheus - Monique"
+    },
+    {
+        "id": 7,
+        "curso": "Administração",
+        "predio": "Bloco C",
+        "andar": "2º andar",
+        "sala": "BLC-201-B",
+        "professor": "Valmir"
+    },
+    {
+        "id": 8,
+        "curso": "Gestão Comercial",
+        "predio": "Bloco C",
+        "andar": "2º andar",
+        "sala": "BLC-201-B",
+        "professor": "Valmir"
+    },
+    {
+        "id": 9,
+        "curso": "Marketing ",
+        "predio": "Bloco C",
+        "andar": "2º andar",
+        "sala": "BLC-201-B",
+        "professor": "Valmir"
+    },
+    {
+        "id": 10,
+        "curso": "Processos Gerenciais",
+        "predio": "Bloco C",
+        "andar": "2º andar",
+        "sala": "BLC-201-B",
+        "professor": "Valmir"
+    },
+    {
+        "id": 11,
+        "curso": "Ciências Contábeis",
+        "predio": "Bloco C",
+        "andar": "2º andar",
+        "sala": "BLC-202",
+        "professor": "Graziella  "
+    },
+    {
+        "id": 12,
+        "curso": "Ciências Contábeis",
+        "predio": "Bloco C",
+        "andar": "2º andar",
+        "sala": "BLC-203",
+        "professor": "Jacira "
+    },
+    {
+        "id": 13,
+        "curso": "Ciências Contábeis",
+        "predio": "Bloco C",
+        "andar": "2º andar",
+        "sala": "BLC-204",
+        "professor": "Jacira "
+    },
+    {
+        "id": 14,
+        "curso": "Administração",
+        "predio": "Bloco C",
+        "andar": "2º andar",
+        "sala": "BLC-205-A",
+        "professor": "Valmir "
+    },
+    {
+        "id": 15,
+        "curso": "Gestão Comercial",
+        "predio": "Bloco C",
+        "andar": "2º andar",
+        "sala": "BLC-205-A",
+        "professor": "Valmir "
+    },
+    {
+        "id": 16,
+        "curso": "Marketing",
+        "predio": "Bloco C",
+        "andar": "2º andar",
+        "sala": "BLC-205-A",
+        "professor": "Valmir "
+    },
+    {
+        "id": 17,
+        "curso": "Processos Gerenciais",
+        "predio": "Bloco C",
+        "andar": "2º andar",
+        "sala": "BLC-205-A",
+        "professor": "Valmir "
+    },
+    {
+        "id": 18,
+        "curso": "Administração",
+        "predio": "Bloco C",
+        "andar": "2º andar",
+        "sala": "BLC-205-B",
+        "professor": "Valmir  "
+    },
+    {
+        "id": 19,
+        "curso": "Gestão Comercial",
+        "predio": "Bloco C",
+        "andar": "2º andar",
+        "sala": "BLC-205-B",
+        "professor": "Valmir  "
+    },
+    {
+        "id": 20,
+        "curso": "Marketing",
+        "predio": "Bloco C",
+        "andar": "2º andar",
+        "sala": "BLC-205-B",
+        "professor": "Valmir  "
+    },
+    {
+        "id": 21,
+        "curso": "Processos Gerenciais",
+        "predio": "Bloco C",
+        "andar": "2º andar",
+        "sala": "BLC-205-B",
+        "professor": "Valmir  "
+    },
+    {
+        "id": 22,
+        "curso": "Ciências Econômicas",
+        "predio": "Bloco C",
+        "andar": "3º andar",
+        "sala": "BLC-301",
+        "professor": "Renato  "
+    },
+    {
+        "id": 23,
+        "curso": "Ciências Econômicas",
+        "predio": "Bloco C",
+        "andar": "3º andar",
+        "sala": "BLC-302",
+        "professor": "André  "
+    },
+    {
+        "id": 24,
+        "curso": "Administração",
+        "predio": "Bloco C",
+        "andar": "3º andar",
+        "sala": "BLC-303",
+        "professor": "Vanicleia  "
+    },
+    {
+        "id": 25,
+        "curso": "Administração",
+        "predio": "Bloco C",
+        "andar": "3º andar",
+        "sala": "Conceito CSA",
+        "professor": "Vanicleia  "
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "saa",
+        "tipo": "atendimento",
+        "descricao": "setor de cobrança",
+        "predio": "saa",
+        "numero": "110",
+        "lat": -23.50015761404348,
+        "lng": -47.39859949663707,
+        "searchTag": [
+            "atendimento",
+            "predio admininstrativo",
+            "adm",
+            "prouni",
+            "setor de cobranças",
+            "admininstração"
+        ]
+    },
+    {
+        "nome": "bloco b",
+        "tipo": "atendimento",
+        "descricao": "setor de cobrança",
+        "predio": "bloco b",
+        "numero": "110",
+        "lat": -23.500664,
+        "lng": -47.397863,
+        "searchTag": [
+            "blocob",
+            "b"
+        ]
+    }
+]

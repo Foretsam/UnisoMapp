@@ -1,0 +1,138 @@
+[
+    {
+        "id": 1,
+        "curso": "Engenharia Química",
+        "predio": "Biblioteca",
+        "andar": "externo",
+        "sala": "BIA - 001 Laboratório de Física A",
+        "professor": "Ana - Michel "
+    },
+    {
+        "id": 2,
+        "curso": "Engenharia Química",
+        "predio": "Biblioteca",
+        "andar": "externo",
+        "sala": "BIA - 002 Laboratório de Física B",
+        "professor": "Ana - Michel "
+    },
+    {
+        "id": 3,
+        "curso": "Engenharia Ambiental",
+        "predio": "Biblioteca",
+        "andar": "externo",
+        "sala": "BIA - 007 Laboratório Fenômenos de Transporte e Operações Unitárias/FENOTRANS",
+        "professor": "Fabiola "
+    },
+    {
+        "id": 4,
+        "curso": "Design de Interiores",
+        "predio": "Biblioteca",
+        "andar": "externo",
+        "sala": "Ateliê de Maquetes",
+        "professor": "Fabricio - Silvia - Tiago"
+    },
+    {
+        "id": 5,
+        "curso": "Arquitetura e Urbanismo ",
+        "predio": "Biblioteca",
+        "andar": "externo",
+        "sala": "Ateliê de Maquetes",
+        "professor": "Fabricio - Silvia - Tiago"
+    },
+    {
+        "id": 6,
+        "curso": "Design",
+        "predio": "Biblioteca",
+        "andar": "externo",
+        "sala": "Laboratório de Inovação e Design - LID",
+        "professor": "Olivia - José - Carla "
+    },
+    {
+        "id": 7,
+        "curso": "Pedagogia",
+        "predio": "Biblioteca",
+        "andar": "1º andar",
+        "sala": "Auditório Biblioteca",
+        "professor": "Albertina"
+    },
+    {
+        "id": 8,
+        "curso": "Educação Física",
+        "predio": "Biblioteca",
+        "andar": "1º andar",
+        "sala": "Espaço Informática",
+        "professor": "Vagner"
+    },
+    {
+        "id": 9,
+        "curso": "Educação Física",
+        "predio": "Biblioteca",
+        "andar": "térreo",
+        "sala": "Térreo Biblioteca",
+        "professor": "Vagner"
+    },
+    {
+        "id": 10,
+        "curso": "Estética e Cosmética",
+        "predio": "Biblioteca",
+        "andar": "1º andar",
+        "sala": "Miniauditório",
+        "professor": "Juliana "
+    },
+    {
+        "id": 11,
+        "curso": "Educação Física",
+        "predio": "Biblioteca",
+        "andar": "1º andar",
+        "sala": "Stadium",
+        "professor": "Vagner"
+    },
+    {
+        "id": 12,
+        "curso": "Psicologia",
+        "predio": "Biblioteca",
+        "andar": "1º andar",
+        "sala": "Arena",
+        "professor": "Sylvia"
+    },
+    {
+        "id": 13,
+        "curso": "Administração",
+        "predio": "Biblioteca",
+        "andar": "1º andar",
+        "sala": "Luderia",
+        "professor": "Osmil"
+    },
+    {
+        "id": 14,
+        "curso": "Artes Visuais",
+        "predio": "Biblioteca",
+        "andar": "1º andar",
+        "sala": "Galeria",
+        "professor": "Mirella"
+    },
+    {
+        "id": 15,
+        "curso": "Design",
+        "predio": "Biblioteca",
+        "andar": "2º andar",
+        "sala": "Unisotech",
+        "professor": "Ligia"
+    },
+    {
+        "id": 16,
+        "curso": "Química Industrial",
+        "predio": "Biblioteca",
+        "andar": "externo",
+        "sala": "Ateliê de Maquetes",
+        "professor": "Ana - Michel"
+    },
+    {
+        "id": 17,
+        "curso": "Química Industrial",
+        "predio": "Biblioteca",
+        "andar": "externo",
+        "sala": "Ateliê de Maquetes",
+        "professor": "Ana - Michel"
+    }
+]

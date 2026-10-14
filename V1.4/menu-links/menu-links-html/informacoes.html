@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- Fonte usada -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+    <!-- Fonte usada -->
+    <!-- Css padrão de todas as páginas -->
+    <link rel="stylesheet" href="/src/geral.css">
+    <!-- Css padrão de todas as páginas -->
+    <!-- Css da página informacoes(informacoes) -->
+    <link rel="stylesheet" href="/menu-links/menu-links-css/informacoes.css">
+    <!-- Ícones usados -->
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <!-- Ícones usados -->
+</head>
+
+<body>
+    <div class="info-main">
+        <div class="header">
+            <div class="informacoes">
+                <h1 class="infotxt">INFORMAÇÕES:</h1>
+
+                <div class="botoes">
+                    <a href="#" class="btn" onclick="filterCards('all')">Todos</a>
+                    <a href="#" class="btn" onclick="filterCards('blocos')">Blocos</a>
+                    <a href="#" class="btn" onclick="filterCards('apoios')">Apoios</a>
+                    <a href="#" class="btn" onclick="filterCards('saa')">SAA</a>
+                    <a href="#" class="btn" onclick="filterCards('Biblioteca')">Biblioteca</a>
+                    <a href="#" class="btn" onclick="filterCards('quadras')">Quadras</a>
+                    <a href="#" class="btn" onclick="filterCards('veterinaria')">Veterinaria</a>
+                    <a href="#" class="btn" onclick="filterCards('lapec')">LAPEC</a>
+                    <a href="#" class="btn" onclick="filterCards('neas')">NEAS</a>
+                </div>
+            </div>
+        </div>
+    </div>
+        <!-- Menu-desktop (Schuab) -->
+    <nav class="menuDesktop-sidebar">
+        <div class="menuDesktop-logo-menu">
+            <h2 class="menuDesktop-logo">Uniso Mapp</h2>
+
+            <i class="bx bx-menu menuDesktop-toggle-btn"></i>
+        </div>
+        <ul class="menuDesktop-list">
+            <li class="menuDesktop-list-item">
+                <a href="/index.html">
+                    <i class="bx bxs-map"></i>
+                    <span class="menuDesktop-link-name" style="--i:1;
+                    ">Mapa</span>
+                </a>
+            </li>
+            <li class="menuDesktop-list-item">
+                <a href="/menu-links/menu-links-html/projeto-integrador.html">
+                    <i class='bx bx-calendar-event'></i>
+                    <span class="menuDesktop-link-name" style="--i:2;
+                    ">Eventos</span>
+                </a>
+            </li>
+            <li class="menuDesktop-list-item menuDesktop-active">
+                <a href="/menu-links/menu-links-html/informacoes.html">
+                    <i class='bx bx-info-circle'></i>
+                    <span class="menuDesktop-link-name" style="--i:3;
+                    ">Informações</span>
+                </a>
+            </li>
+            <li class="menuDesktop-list-item">
+                <a href="/menu-links/menu-links-html/servicos.html">
+                    <i class='bx bx-notepad'></i>
+                    <span class="menuDesktop-link-name" style="--i:4;
+                    ">Serviços</span>
+                </a>
+            </li>
+            <li class="menuDesktop-list-item">
+                <a href="/menu-links/menu-links-html/guia-do-aluno.html">
+                    <i class='bx bx-chat'></i>
+                    <span class="menuDesktop-link-name" style="--i:6;
+                    ">Guia dos Alunos</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+    <!-- Menu-mobile (Schuab) -->
+    <nav class="menuMobile-sidebar">
+        <div class="menuMobile-logo-menu">
+            <h2 class="menuMobile-logo">Uniso Mapp</h2>
+
+            <i class="bx bx-menu menuMobile-toggle-btn"></i>
+        </div>
+
+        <ul class="menuMobile-list">
+            <li class="menuMobile-list-item">
+                <a href="/index.html">
+                    <i class="bx bxs-map"></i>
+                    <span class="menuMobile-link-name" style="--i:1;
+                    ">Mapa</span>
+                </a>
+            </li>
+            <li class="menuMobile-list-item">
+                <a href="/menu-links/menu-links-html/projeto-integrador.html">
+                    <i class='bx bx-calendar-event'></i>
+                    <span class="menuMobile-link-name" style="--i:2;
+                    ">Eventos</span>
+                </a>
+            </li>
+            <li class="menuMobile-list-item menuMobile-active">
+                <a href="/menu-links/menu-links-html/informacoes.html">
+                    <i class='bx bx-info-circle'></i>
+                    <span class="menuMobile-link-name" style="--i:3;
+                    ">Informações</span>
+                </a>
+            </li>
+            <li class="menuMobile-list-item">
+                <a href="/menu-links/menu-links-html/servicos.html">
+                    <i class='bx bx-notepad'></i>
+                    <span class="menuMobile-link-name" style="--i:4;
+                    ">Serviços</span>
+                </a>
+            </li>
+            <li class="menuMobile-list-item">
+                <a href="/menu-links/menu-links-html/guia-do-aluno.html">
+                    <i class='bx bx-chat'></i>
+                    <span class="menuMobile-link-name" style="--i:6;
+                    ">Guia dos Alunos</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+    <!-- informacoes-main -->
+    <div class="informacoes-main">
+        <div class="container">
+            <div class="cards Biblioteca" style="--clr:#b6b452;">
+                <div class="imgBx">
+                    <img src="/Imagens/card-images/biblio.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h2>Biblioteca</h2>
+                    <p>A Biblioteca da UNISO oferece estudo, relaxamento e diversão para os alunos, com livros,
+                        jogos e uma cafeteria. Fica perto do letreiro UNISO e do prédio do SAA, acessível pela
+                        escadaria principal ou pelo Apoio 1.</p>
+                    <div class="containerbu">
+
+                        <a class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no mapa!</a>
+                    </div>
+                </div>
+            </div>
+            <div class="cards blocos" style="--clr:#63aeb8;">
+                <div class="imgBx">
+                    <img src="/Imagens/card-images/BLOCO A.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h2>Bloco A</h2>
+                    <p>
+                        O Bloco A é um dos principais prédios de salas de aula, situado ao lado do SAA e acessado
+                        por rampas e pela alameda principal. Fica em frente à escadaria principal do estacionamento.
+                    </p>
+                    <div class="containerbu">
+
+                        <a class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no mapa!</a>
+                    </div>
+                </div>
+            </div>
+            <div class="cards blocos" style="--clr:#63aeb8;">
+                <div class="imgBx">
+                    <img src="/Imagens/card-images/BLOCO B.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h2>Bloco B</h2>
+                    <p>
+                        O Bloco B, é um prédio de salas de aula, está ao lado esquerdo do Bloco A e é acessível
+                        pelas rampas dos apoios e pela alameda principal após subir as escadarias do estacionamento.
+                    </p>
+                    <div class="containerbu">
+
+                        <a class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no mapa!</a>
+                    </div>
+                </div>
+            </div>
+            <div class=" cards blocos" style="--clr:#63aeb8;">
+                <div class="imgBx">
+                    <img src="/Imagens/card-images/BLOCO C.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h2>Bloco C</h2>
+                    <p>O Bloco C, um dos prédios de salas de aula que está localizado entre os Blocos B e D e é
+                        acessível pela alameda da universidade. Ao subir a escadaria em frente à Biblioteca e virar
+                        à esquerda.</p>
+                    <div class="containerbu">
+
+                        <a class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no mapa!</a>
+                    </div>
+                </div>
+            </div>
+            <div class="cards blocos" style="--clr:#63aeb8;">
+                <div class="imgBx">
+                    <img src="/Imagens/card-images/BLOCO D.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h2>Bloco D</h2>
+                    <p>O Bloco D, onde estão as salas de aula principais, fica em frente ao Apoio 2. Pode ser
+                        acessado pelas rampas dos apoios ou pela escadaria à esquerda do estacionamento. localizado
+                        ao lado das quadras.</p>
+                    <div class="containerbu">
+
+                        <a class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no mapa!</a>
+                    </div>
+                </div>
+            </div>
+            <div class="cards blocos" style="--clr:#63aeb8;">
+                <div class="imgBx">
+                    <img src="/Imagens/card-images/BLOCO E.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h2>Bloco E</h2>
+                    <p>O Bloco E é um dos prédios principais de sala de aula e laboratórios. Localizado logo após ao
+                        Bloco F e ao lado do Apoio 3. </p>
+                    <div class="containerbu">
+
+                        <a class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no mapa!</a>
+                    </div>
+                </div>
+            </div>
+            <div class="cards blocos" style="--clr:#63aeb8;">
+                <div class="imgBx">
+                    <img src="/Imagens/card-images/BLOCO F.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h2>Bloco F</h2>
+                    <p>
+                        O Bloco F é um dos prédios principais de salas de aula, com o Núcleo de TI, Gamelab e uma
+                        cantina no térreo. Está localizado após a primeira entrada à direita após a portaria da
+                        UNISO, com um letreiro da UNISO à frente do bloco.</p>
+                    <div class="containerbu">
+
+                        <a class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no mapa!</a>
+                    </div>
+                </div>
+            </div>
+            <div class="cards apoios" style="--clr:#987bc7;">
+                <div class="imgBx">
+                    <img src="/Imagens/card-images/APOIO1.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h2>Apoio 1</h2>
+                    <p>O Apoio 1 é um prédio de dois andares com laboratórios de computadores, localizado atrás do
+                        SAA. Acessível por escadas internas ou rampas externas, oferece garantia de acessibilidade.
+                    </p>
+                    <div class="containerbu">
+
+                        <a class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no mapa!</a>
+                    </div>
+                </div>
+            </div>
+            <div class="cards apoios" style="--clr:#987bc7;">
+                <div class="imgBx">
+                    <img src="/Imagens/card-images/APOIO2.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h2>Apoio 2</h2>
+                    <p>
+                        O Apoio 2 é um prédio de dois andares para pesquisa, com vários laboratórios especializados,
+                        incluindo Anatomia Humana e Biociência. Localizado atrás do Bloco C, é acessível por escadas
+                        e rampas.</p>
+                    <div class="containerbu">
+
+                        <a class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no mapa!</a>
+                    </div>
+                </div>
+            </div>
+            <div class="cards apoios" style="--clr:#987bc7;">
+                <div class="imgBx">
+                    <img src="/Imagens/card-images/APOIO3.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h2>Apoio 3</h2>
+                    <p>
+                        O Apoio 3 tem salas de aula, laboratórios de Bar, Cozinha e Confeitaria, vestiários,
+                        Secretaria e Sala de Higienização. Localizado próximo ao Bloco E e ao Apoio 4, possui
+                        entradas externas e uma lanchonete para conveniência.</p>
+                    <div class="containerbu">
+
+                        <a class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no mapa!</a>
+                    </div>
+                </div>
+            </div>
+            <div class="cards apoios" style="--clr:#987bc7;">
+                <div class="imgBx">
+                    <img src="/Imagens/card-images/APOIO4.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h2>Apoio 4</h2>
+                    <p>
+                        O Apoio 4 é um centro educacional multifuncional com salas de aula modernas, clínica
+                        radiológica e odontológica avançada, laboratórios especializados e áreas para professores.
+                        Está situado atrás do Apoio 3.</p>
+                    <div class="containerbu">
+
+                        <a class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no mapa!</a>
+                    </div>
+                </div>
+            </div>
+            <div class="cards saa" style="--clr:#b6b452;">
+                <div class="imgBx">
+                    <img src="/Imagens/card-images/SAA.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h2>SAA</h2>
+                    <p>
+                        O SAA é um departamento de suporte para alunos da universidade, situado à esquerda da
+                        Biblioteca para quem sobe as escadas do estacionamento, ou acessível internamente pela rampa
+                        do apoio 1.</p>
+                    <div class="containerbu">
+
+                        <a class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no mapa!</a>
+                    </div>
+                </div>
+            </div>
+            <div class="cards veterinaria" style="--clr:#b6b452;">
+                <div class="imgBx">
+                    <img src="/Imagens/card-images/VET.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h2>Veterinária</h2>
+                    <p>A Medicina Veterinária da UNISO fica no sentido oposto aos blocos principais, próximo ao ponto de ônibus, acessível por uma passarela. O bloco possui salas de aula, laboratórios e clínicas para atendimento de pets.</p>
+                    <div class="containerbu">
+
+                        <a class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no mapa!</a>
+                    </div>
+                </div>
+            </div>
+            <div class="cards neas" style="--clr:#b6b452;">
+                <div class="imgBx">
+                    <img src="/Imagens/card-images/NEAS.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h2>NEAS</h2>
+                    <p>O NEAS da UNISO realiza pesquisas ambientais, incluindo estudos sobre o Rio Sorocaba, cultivo de plantas medicinais, manutenção de um banco de sementes nativas, levantamento de fauna e flora, e atividades de conscientização.</p>
+                    <div class="containerbu">
+
+                        <a class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no mapa!</a>
+                    </div>
+                </div>
+            </div>
+            <div class="cards quadras" style="--clr:#b6b452;">
+                <div class="imgBx">
+                    <img src="/Imagens/card-images/QUADRAS.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h2>Quadras</h2>
+                    <p>A UNISO dispõe de três espaços dedicados às atividades esportivas sendo eles uma quadra aberta poliesportiva, uma quadra de areia e um campo gramado. Estas instalações estão localizadas ao lado do Bloco D.</p>
+                    <div class="containerbu">
+
+                        <a class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no mapa!</a>
+                    </div>
+                </div>
+            </div>
+            <div class="cards lapec" style="--clr:#b6b452;">
+                <div class="imgBx">
+                    <img src="/Imagens/card-images/LAPEC.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h2>LAPEC</h2>
+                    <p>O LAPEC é um laboratório especializado em engenharia, o espaço é dedicado à topografia,
+                        conforto ambiental e práticas de construção civil. Localizado próximo às quadras e apoio 2
+                        com acesso por rampas.</p>
+                    <div class="containerbu">
+
+                        <a class="eventos-vernomapaBtn" id="eventos-vernomapaBtn">Veja no mapa!</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</body>
+<!-- Uso geral de ícones -->
+<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+<!-- Uso geral de ícones -->
+<!-- Script geral de todas as páginas -->
+<script src="/src/geral.js"></script>
+<!-- Script geral de todas as páginas -->
+<!-- Script (informacoes) -->
+<script src="/menu-links/menu-links-js/informacoes.js"></script>
+<!-- Script (informacoes) -->
+</body>
+
+</html>

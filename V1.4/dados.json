@@ -1,0 +1,4333 @@
+[
+    {
+        "nome": "saa-001",
+        "tipo": "espaco",
+        "descricao": "academia",
+        "predio": "saa",
+        "numero": "001",
+        "lat": -23.50015761404348,
+        "lng": -47.39859949663707
+    },
+    {
+        "nome": "saa-002",
+        "tipo": "vestiario",
+        "descricao": "vestiário feminino - academia",
+        "predio": "saa",
+        "numero": "002",
+        "lat": -23.50015761404348,
+        "lng": -47.39859949663707
+    },
+    {
+        "nome": "saa-003",
+        "tipo": "vestiario",
+        "descricao": "vestiário masculino - academia",
+        "predio": "saa",
+        "numero": "003",
+        "lat": -23.50015761404348,
+        "lng": -47.39859949663707
+    },
+    {
+        "nome": "saa-004",
+        "tipo": "sala dos tecnicos",
+        "descricao": "sala técnica - telefonia",
+        "predio": "saa",
+        "numero": "004",
+        "lat": -23.50015761404348,
+        "lng": -47.39859949663707
+    },
+    {
+        "nome": "saa-005",
+        "tipo": "recepcao",
+        "descricao": "recepção / informações",
+        "predio": "saa",
+        "numero": "005",
+        "lat": -23.50015761404348,
+        "lng": -47.39859949663707
+    },
+    {
+        "nome": "saa-006",
+        "tipo": "laboratorio",
+        "descricao": "stemda lab",
+        "predio": "saa",
+        "numero": "006",
+        "lat": -23.50015761404348,
+        "lng": -47.39859949663707
+    },
+    {
+        "nome": "saa-007",
+        "tipo": "cantina",
+        "descricao": "grão expresso",
+        "predio": "saa",
+        "numero": "007",
+        "lat": -23.50015761404348,
+        "lng": -47.39859949663707
+    },
+    {
+        "nome": "saa-101",
+        "tipo": "atendimento",
+        "descricao": "saa - serviço de atendimento ao aluno / setor de estágio",
+        "predio": "saa",
+        "numero": "101",
+        "lat": -23.50015761404348,
+        "lng": -47.39859949663707
+    },
+    {
+        "nome": "saa-102",
+        "tipo": "recepcao",
+        "descricao": "recepção / informações",
+        "predio": "saa",
+        "numero": "102",
+        "lat": 0.0,
+        "lng": 0.0
+    },
+    {
+        "nome": "saa-103",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "saa",
+        "numero": "103",
+        "lat": -23.50015761404348,
+        "lng": -47.39859949663707
+    },
+    {
+        "nome": "saa-104",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "saa",
+        "numero": "104",
+        "lat": -23.50015761404348,
+        "lng": -47.39859949663707
+    },
+    {
+        "nome": "saa-105",
+        "tipo": "atendimento",
+        "descricao": "assistente social",
+        "predio": "saa",
+        "numero": "105",
+        "lat": -23.50015761404348,
+        "lng": -47.39859949663707
+    },
+    {
+        "nome": "saa-106",
+        "tipo": "atendimento",
+        "descricao": "pós graduação",
+        "predio": "saa",
+        "numero": "106",
+        "lat": -23.50015761404348,
+        "lng": -47.39859949663707
+    },
+    {
+        "nome": "saa-107",
+        "tipo": "atendimento",
+        "descricao": "comitê de ética",
+        "predio": "saa",
+        "numero": "107",
+        "lat": -23.50015761404348,
+        "lng": -47.39859949663707
+    },
+    {
+        "nome": "saa-108",
+        "tipo": "atendimento",
+        "descricao": "assecom",
+        "predio": "saa",
+        "numero": "108",
+        "lat": -23.50015761404348,
+        "lng": -47.39859949663707
+    },
+    {
+        "nome": "saa-109",
+        "tipo": "atendimento",
+        "descricao": "cred uniso / fies / prouni",
+        "predio": "saa",
+        "numero": "109",
+        "lat": -23.50015761404348,
+        "lng": -47.39859949663707
+    },
+    {
+        "nome": "saa-110",
+        "tipo": "atendimento",
+        "descricao": "setor de cobrança",
+        "predio": "saa",
+        "numero": "110",
+        "lat": -23.50015761404348,
+        "lng": -47.39859949663707
+    },
+    {
+        "nome": "saa-201",
+        "tipo": "atendimento",
+        "descricao": "vestibular",
+        "predio": "saa",
+        "numero": "201",
+        "lat": -23.50015761404348,
+        "lng": -47.39859949663707
+    },
+    {
+        "nome": "saa-202",
+        "tipo": "atendimento",
+        "descricao": "cet - centro de educação e tecnologia",
+        "predio": "saa",
+        "numero": "202",
+        "lat": -23.50015761404348,
+        "lng": -47.39859949663707
+    },
+    {
+        "nome": "saa-203",
+        "tipo": "reitoria",
+        "descricao": "reitoria",
+        "predio": "saa",
+        "numero": "203",
+        "lat": -23.50015761404348,
+        "lng": -47.39859949663707
+    },
+    {
+        "nome": "saa-204",
+        "tipo": "reitoria",
+        "descricao": "pró reitoria - pós graduação",
+        "predio": "saa",
+        "numero": "204",
+        "lat": -23.50015761404348,
+        "lng": -47.39859949663707
+    },
+    {
+        "nome": "saa-205",
+        "tipo": "reitoria",
+        "descricao": "pró reitoria - graduação",
+        "predio": "saa",
+        "numero": "205",
+        "lat": -23.50015761404348,
+        "lng": -47.39859949663707
+    },
+    {
+        "nome": "saa-206",
+        "tipo": "sala dos professores",
+        "descricao": "spd reuniões",
+        "predio": "saa",
+        "numero": "206",
+        "lat": -23.50015761404348,
+        "lng": -47.39859949663707
+    },
+    {
+        "nome": "saa-207",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "saa",
+        "numero": "207",
+        "lat": -23.50015761404348,
+        "lng": -47.39859949663707
+    },
+    {
+        "nome": "saa-208",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "saa",
+        "numero": "208",
+        "lat": -23.50015761404348,
+        "lng": -47.39859949663707
+    },
+    {
+        "biblioteca": "-23.49988044951111, -47.3991768943736"
+    },
+    {
+        "nome": "bib-001",
+        "tipo": "cantina",
+        "descricao": "ultracoffe",
+        "predio": "biblioteca",
+        "numero": "001",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-002",
+        "tipo": "laboratorio",
+        "descricao": "business lab",
+        "predio": "biblioteca",
+        "numero": "002",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-003",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "biblioteca",
+        "numero": "003",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-004",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "biblioteca",
+        "numero": "004",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-101",
+        "tipo": "laboratorio",
+        "descricao": "luderia lab",
+        "predio": "biblioteca",
+        "numero": "101",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-102",
+        "tipo": "atendimento",
+        "descricao": "mestrado / doutorado",
+        "predio": "biblioteca",
+        "numero": "102",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-103",
+        "tipo": "almoxarifado",
+        "descricao": "depósito",
+        "predio": "biblioteca",
+        "numero": "103",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-104",
+        "tipo": "banheiro",
+        "descricao": "banheiro unisex / adaptado",
+        "predio": "biblioteca",
+        "numero": "104",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-105",
+        "tipo": "almoxarifado",
+        "descricao": "depósito",
+        "predio": "biblioteca",
+        "numero": "105",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-201",
+        "tipo": "auditorio",
+        "descricao": "miniauditório",
+        "predio": "biblioteca",
+        "numero": "201",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-202",
+        "tipo": "auditorio",
+        "descricao": "stadium",
+        "predio": "biblioteca",
+        "numero": "202",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-203",
+        "tipo": "laboratorio",
+        "descricao": "cyber",
+        "predio": "biblioteca",
+        "numero": "203",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-204",
+        "tipo": "laboratorio",
+        "descricao": "lab working",
+        "predio": "biblioteca",
+        "numero": "204",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-205",
+        "tipo": "auditorio",
+        "descricao": "arena",
+        "predio": "biblioteca",
+        "numero": "205",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-301",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "biblioteca",
+        "numero": "301",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-302",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "biblioteca",
+        "numero": "302",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-303",
+        "tipo": "espaco",
+        "descricao": "uniso tech 01",
+        "predio": "biblioteca",
+        "numero": "303",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-304",
+        "tipo": "espaco",
+        "descricao": "uniso tech 02",
+        "predio": "biblioteca",
+        "numero": "304",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-305",
+        "tipo": "espaco",
+        "descricao": "uniso tech 03",
+        "predio": "biblioteca",
+        "numero": "305",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-306",
+        "tipo": "espaco",
+        "descricao": "uniso tech 04",
+        "predio": "biblioteca",
+        "numero": "306",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-307",
+        "tipo": "espaco",
+        "descricao": "uniso tech 05",
+        "predio": "biblioteca",
+        "numero": "307",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-308",
+        "tipo": "espaco",
+        "descricao": "uniso tech 06",
+        "predio": "biblioteca",
+        "numero": "308",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-309",
+        "tipo": "espaco",
+        "descricao": "uniso tech 07",
+        "predio": "biblioteca",
+        "numero": "309",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-310",
+        "tipo": "espaco",
+        "descricao": "uniso tech 08",
+        "predio": "biblioteca",
+        "numero": "310",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-311",
+        "tipo": "espaco",
+        "descricao": "uniso tech 09",
+        "predio": "biblioteca",
+        "numero": "311",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-312",
+        "tipo": "espaco",
+        "descricao": "uniso tech 10",
+        "predio": "biblioteca",
+        "numero": "312",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-313",
+        "tipo": "espaco",
+        "descricao": "uniso tech 11",
+        "predio": "biblioteca",
+        "numero": "313",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-314",
+        "tipo": "espaco",
+        "descricao": "uniso tech 12",
+        "predio": "biblioteca",
+        "numero": "314",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-315",
+        "tipo": "espaco",
+        "descricao": "uniso tech 13",
+        "predio": "biblioteca",
+        "numero": "315",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-316",
+        "tipo": "espaco",
+        "descricao": "uniso tech 14",
+        "predio": "biblioteca",
+        "numero": "316",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-317",
+        "tipo": "espaco",
+        "descricao": "uniso tech 15",
+        "predio": "biblioteca",
+        "numero": "317",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-318",
+        "tipo": "espaco",
+        "descricao": "uniso tech 16",
+        "predio": "biblioteca",
+        "numero": "318",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-401",
+        "tipo": "espaco",
+        "descricao": "sala guarda volumes",
+        "predio": "biblioteca",
+        "numero": "401",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-402",
+        "tipo": "recepcao",
+        "descricao": "recepção / informações",
+        "predio": "biblioteca",
+        "numero": "402",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-403",
+        "tipo": "espaco",
+        "descricao": "acervo de livros (001 - 369.5)",
+        "predio": "biblioteca",
+        "numero": "403",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-404",
+        "tipo": "operacional",
+        "descricao": "depósito",
+        "predio": "biblioteca",
+        "numero": "404",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-405",
+        "tipo": "banheiro",
+        "descricao": "banheiro unisex / adaptado",
+        "predio": "biblioteca",
+        "numero": "405",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-406",
+        "tipo": "operacional",
+        "descricao": "depósito",
+        "predio": "biblioteca",
+        "numero": "406",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-501",
+        "tipo": "espaco",
+        "descricao": "acervo de livros (370 - v863)",
+        "predio": "biblioteca",
+        "numero": "501",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-601",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "biblioteca",
+        "numero": "601",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-602",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "biblioteca",
+        "numero": "602",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-603",
+        "tipo": "nucleo",
+        "descricao": "núcleo de cultura afro brasileira - nucab",
+        "predio": "biblioteca",
+        "numero": "",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-604",
+        "tipo": "nucleo",
+        "descricao": "núcleo de preservação histórica",
+        "predio": "biblioteca",
+        "numero": "604",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-605",
+        "tipo": "operacional",
+        "descricao": "copa -  funcionários",
+        "predio": "biblioteca",
+        "numero": "605",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-606",
+        "tipo": "nucleo",
+        "descricao": "núcleo de referência e processamento técnico",
+        "predio": "biblioteca",
+        "numero": "606",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-607",
+        "tipo": "editora",
+        "descricao": "editora uniso - aquisição, publucações periódicas e eduniso",
+        "predio": "biblioteca",
+        "numero": "607",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-608",
+        "tipo": "coordenacao",
+        "descricao": "coordenação",
+        "predio": "biblioteca",
+        "numero": "608",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-609",
+        "tipo": "nucleo",
+        "descricao": "núcleo de acessibilidade",
+        "predio": "biblioteca",
+        "numero": "609",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-610",
+        "tipo": "espaco",
+        "descricao": "acervo de livros (869 - 998.9)",
+        "predio": "biblioteca",
+        "numero": "610",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-701",
+        "tipo": "espaco",
+        "descricao": "louge 94",
+        "predio": "biblioteca",
+        "numero": "701",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-702",
+        "tipo": "espaco",
+        "descricao": "sala de leitura",
+        "predio": "biblioteca",
+        "numero": "702",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-703",
+        "tipo": "espaco",
+        "descricao": "sala de leitura",
+        "predio": "biblioteca",
+        "numero": "703",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-704",
+        "tipo": "espaco",
+        "descricao": "sala de leitura",
+        "predio": "biblioteca",
+        "numero": "704",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-705",
+        "tipo": "espaco",
+        "descricao": "sala de leitura",
+        "predio": "biblioteca",
+        "numero": "705",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-706",
+        "tipo": "espaco",
+        "descricao": "sala de leitura",
+        "predio": "biblioteca",
+        "numero": "706",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-707",
+        "tipo": "espaco",
+        "descricao": "sala de leitura",
+        "predio": "biblioteca",
+        "numero": "707",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-708",
+        "tipo": "espaco",
+        "descricao": "cria",
+        "predio": "biblioteca",
+        "numero": "708",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-709",
+        "tipo": "espaco",
+        "descricao": "sala de leitura",
+        "predio": "biblioteca",
+        "numero": "709",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-710",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de letras - português/inglês",
+        "predio": "biblioteca",
+        "numero": "710",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-711",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de história",
+        "predio": "biblioteca",
+        "numero": "711",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-712",
+        "tipo": "espaco",
+        "descricao": "sala de leitura",
+        "predio": "biblioteca",
+        "numero": "712",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-713",
+        "tipo": "operacional",
+        "descricao": "depósito",
+        "predio": "biblioteca",
+        "numero": "713",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-714",
+        "tipo": "banheiro",
+        "descricao": "banheiro unisex / adaptado",
+        "predio": "biblioteca",
+        "numero": "714",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "nome": "bib-715",
+        "tipo": "operacional",
+        "descricao": "depósito",
+        "predio": "biblioteca",
+        "numero": "715",
+        "lat": -23.49988044951111,
+        "lng": -47.3991768943736
+    },
+    {
+        "hospital veterinario": "-23.49897805589627, -47.395063029354226",
+        "espaço convivencia": "-23.49919310794266, -47.39473736930433",
+        "casarao": "-23.499060729963162, -47.394556932505154",
+        "clinica grandes animais": "-23.499507505110987, -47.39423665718661",
+        "cetas": "-23.499722618530825, -47.395044111862944"
+    },
+    {
+        "nome": "vet-001",
+        "tipo": "recepcao",
+        "descricao": "recepção clínica veterinária",
+        "predio": "veterinaria",
+        "numero": "001",
+        "lat": -23.49897805589627,
+        "lng": -47.395063029354226
+    },
+    {
+        "nome": "vet-002",
+        "tipo": "ambulatorio",
+        "descricao": "ambulatório - 01",
+        "predio": "veterinaria",
+        "numero": "002",
+        "lat": -23.49897805589627,
+        "lng": -47.395063029354226
+    },
+    {
+        "nome": "vet-003",
+        "tipo": "ambulatorio",
+        "descricao": "ambulatório - 02",
+        "predio": "veterinaria",
+        "numero": "003",
+        "lat": -23.49897805589627,
+        "lng": -47.395063029354226
+    },
+    {
+        "nome": "vet-004",
+        "tipo": "ambulatorio",
+        "descricao": "ambulatório - 03",
+        "predio": "veterinaria",
+        "numero": "004",
+        "lat": -23.49897805589627,
+        "lng": -47.395063029354226
+    },
+    {
+        "nome": "vet-005",
+        "tipo": "ambulatorio",
+        "descricao": "ambulatório - 04",
+        "predio": "veterinaria",
+        "numero": "005",
+        "lat": -23.49897805589627,
+        "lng": -47.395063029354226
+    },
+    {
+        "nome": "vet-006",
+        "tipo": "ambulatorio",
+        "descricao": "ambulatório - 05",
+        "predio": "veterinaria",
+        "numero": "006",
+        "lat": -23.49897805589627,
+        "lng": -47.395063029354226
+    },
+    {
+        "nome": "vet-007",
+        "tipo": "clinica",
+        "descricao": "ultrassom",
+        "predio": "veterinaria",
+        "numero": "007",
+        "lat": -23.49897805589627,
+        "lng": -47.395063029354226
+    },
+    {
+        "nome": "vet-008",
+        "tipo": "atendimento",
+        "descricao": "atendimento",
+        "predio": "veterinaria",
+        "numero": "008",
+        "lat": -23.49897805589627,
+        "lng": -47.395063029354226
+    },
+    {
+        "nome": "vet-009",
+        "tipo": "atendimento",
+        "descricao": "farmácia",
+        "predio": "veterinaria",
+        "numero": "009",
+        "lat": -23.49897805589627,
+        "lng": -47.395063029354226
+    },
+    {
+        "nome": "vet-010",
+        "tipo": "espaco",
+        "descricao": "raio-x",
+        "predio": "veterinaria",
+        "numero": "010",
+        "lat": -23.49897805589627,
+        "lng": -47.395063029354226
+    },
+    {
+        "nome": "vet-011",
+        "tipo": "clinica",
+        "descricao": "ambulatório animais silvestres",
+        "predio": "veterinaria",
+        "numero": "011",
+        "lat": -23.49897805589627,
+        "lng": -47.395063029354226
+    },
+    {
+        "nome": "vet-012",
+        "tipo": "laboratorio",
+        "descricao": "laboratório parasitologia",
+        "predio": "veterinaria",
+        "numero": "012",
+        "lat": -23.49897805589627,
+        "lng": -47.395063029354226
+    },
+    {
+        "nome": "vet-101",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula - 03",
+        "predio": "veterinaria",
+        "numero": "101",
+        "lat": -23.49897805589627,
+        "lng": -47.395063029354226
+    },
+    {
+        "nome": "vet-102",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula - 02",
+        "predio": "veterinaria",
+        "numero": "102",
+        "lat": -23.49897805589627,
+        "lng": -47.395063029354226
+    },
+    {
+        "nome": "vet-103",
+        "tipo": "clinica",
+        "descricao": "centro cirurgico - 02 pequeno porte",
+        "predio": "veterinaria",
+        "numero": "103",
+        "lat": -23.49897805589627,
+        "lng": -47.395063029354226
+    },
+    {
+        "nome": "vet-104",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "veterinaria",
+        "numero": "104",
+        "lat": -23.49897805589627,
+        "lng": -47.395063029354226
+    },
+    {
+        "nome": "vet-105",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "veterinaria",
+        "numero": "105",
+        "lat": -23.49897805589627,
+        "lng": -47.395063029354226
+    },
+    {
+        "nome": "vet-106",
+        "tipo": "clinica",
+        "descricao": "centro cirurgico - 01 pequeno porte",
+        "predio": "veterinaria",
+        "numero": "106",
+        "lat": -23.49897805589627,
+        "lng": -47.395063029354226
+    },
+    {
+        "nome": "vet-107",
+        "tipo": "sala dos professores",
+        "descricao": "sala dos professores",
+        "predio": "veterinaria",
+        "numero": "107",
+        "lat": -23.49897805589627,
+        "lng": -47.395063029354226
+    },
+    {
+        "nome": "vet-108",
+        "tipo": "coordenacao",
+        "descricao": "coordenação",
+        "predio": "veterinaria",
+        "numero": "108",
+        "lat": -23.49897805589627,
+        "lng": -47.395063029354226
+    },
+    {
+        "nome": "vet-109",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de anatomia animal - 01",
+        "predio": "veterinaria",
+        "numero": "109",
+        "lat": -23.49897805589627,
+        "lng": -47.395063029354226
+    },
+    {
+        "nome": "vet-110",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de anatomia animal - 02",
+        "predio": "veterinaria",
+        "numero": "110",
+        "lat": -23.49897805589627,
+        "lng": -47.395063029354226
+    },
+    {
+        "nome": "vet-111",
+        "tipo": "espaco",
+        "descricao": "espaço esterelização",
+        "predio": "veterinaria",
+        "numero": "111",
+        "lat": -23.49897805589627,
+        "lng": -47.395063029354226
+    },
+    {
+        "nome": "vet-112",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de patologia clínica",
+        "predio": "veterinaria",
+        "numero": "112",
+        "lat": -23.49897805589627,
+        "lng": -47.395063029354226
+    },
+    {
+        "nome": "vet-113",
+        "tipo": "espaco",
+        "descricao": "pré e pós cirurgico",
+        "predio": "veterinaria",
+        "numero": "113",
+        "lat": -23.49897805589627,
+        "lng": -47.395063029354226
+    },
+    {
+        "nome": "vet-114",
+        "tipo": "banheiro",
+        "descricao": "banheiro família - fraldário",
+        "predio": "veterinaria",
+        "numero": "114",
+        "lat": -23.49897805589627,
+        "lng": -47.395063029354226
+    },
+    {
+        "nome": "vet-115",
+        "tipo": "espaco",
+        "descricao": "espaço de convivência",
+        "predio": "espaco de convivencia",
+        "numero": "115",
+        "lat": -23.49919310794266,
+        "lng": -47.39473736930433
+    },
+    {
+        "nome": "vet-116",
+        "tipo": "laboratorio",
+        "descricao": "lab multidiciplinar - práticas cirurgicas",
+        "predio": "casarao",
+        "numero": "116",
+        "lat": -23.499060729963162,
+        "lng": -47.394556932505154
+    },
+    {
+        "nome": "vet-117",
+        "tipo": "laboratorio",
+        "descricao": "câmara fria - congelamento",
+        "predio": "casarao",
+        "numero": "117",
+        "lat": -23.499060729963162,
+        "lng": -47.394556932505154
+    },
+    {
+        "nome": "vet-118",
+        "tipo": "laboratorio",
+        "descricao": "câmara fria - resfriamento",
+        "predio": "casarao",
+        "numero": "118",
+        "lat": -23.499060729963162,
+        "lng": -47.394556932505154
+    },
+    {
+        "nome": "vet-119",
+        "tipo": "baia",
+        "descricao": "baia de internação - 01",
+        "predio": "clinica de grandes animais",
+        "numero": "119",
+        "lat": -23.499507505110987,
+        "lng": -47.39423665718661
+    },
+    {
+        "nome": "vet-120",
+        "tipo": "baia",
+        "descricao": "baia de internação - 02",
+        "predio": "clinica de grandes animais",
+        "numero": "120",
+        "lat": -23.499507505110987,
+        "lng": -47.39423665718661
+    },
+    {
+        "nome": "vet-121",
+        "tipo": "baia",
+        "descricao": "baia de internação - 03",
+        "predio": "clinica de grandes animais",
+        "numero": "121",
+        "lat": -23.499507505110987,
+        "lng": -47.39423665718661
+    },
+    {
+        "nome": "vet-122",
+        "tipo": "baia",
+        "descricao": "baia de internação - 04",
+        "predio": "clinica de grandes animais",
+        "numero": "122",
+        "lat": -23.499507505110987,
+        "lng": -47.39423665718661
+    },
+    {
+        "nome": "vet-123",
+        "tipo": "baia",
+        "descricao": "baia de internação - 05",
+        "predio": "clinica de grandes animais",
+        "numero": "123",
+        "lat": -23.499507505110987,
+        "lng": -47.39423665718661
+    },
+    {
+        "nome": "vet-124",
+        "tipo": "baia",
+        "descricao": "baia de internação - 06",
+        "predio": "clinica de grandes animais",
+        "numero": "124",
+        "lat": -23.499507505110987,
+        "lng": -47.39423665718661
+    },
+    {
+        "nome": "vet-125",
+        "tipo": "espaco",
+        "descricao": "sala de paramentação - entrada centro cirúrgico",
+        "predio": "clinica de grandes animais",
+        "numero": "125",
+        "lat": -23.499507505110987,
+        "lng": -47.39423665718661
+    },
+    {
+        "nome": "vet-126",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "clinica de grandes animais",
+        "numero": "126",
+        "lat": -23.499507505110987,
+        "lng": -47.39423665718661
+    },
+    {
+        "nome": "vet-127",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "clinica de grandes animais",
+        "numero": "127",
+        "lat": -23.499507505110987,
+        "lng": -47.39423665718661
+    },
+    {
+        "nome": "vet-128",
+        "tipo": "operacional",
+        "descricao": "depósito",
+        "predio": "clinica de grandes animais",
+        "numero": "128",
+        "lat": -23.499507505110987,
+        "lng": -47.39423665718661
+    },
+    {
+        "nome": "vet-129",
+        "tipo": "baia",
+        "descricao": "baia de recuperação",
+        "predio": "clinica de grandes animais",
+        "numero": "129",
+        "lat": -23.499507505110987,
+        "lng": -47.39423665718661
+    },
+    {
+        "nome": "vet-130",
+        "tipo": "ambulatorio",
+        "descricao": "ambulatório grandes animais - 01",
+        "predio": "clinica de grandes animais",
+        "numero": "130",
+        "lat": -23.499507505110987,
+        "lng": -47.39423665718661
+    },
+    {
+        "nome": "vet-131",
+        "tipo": "clinica",
+        "descricao": "centro cirurgico - grandes animais",
+        "predio": "clinica de grandes animais",
+        "numero": "131",
+        "lat": -23.499507505110987,
+        "lng": -47.39423665718661
+    },
+    {
+        "nome": "vet-132",
+        "tipo": "espaco",
+        "descricao": "sala de recuperação",
+        "predio": "clinica de grandes animais",
+        "numero": "132",
+        "lat": -23.499507505110987,
+        "lng": -47.39423665718661
+    },
+    {
+        "nome": "vet-133",
+        "tipo": "ambulatorio",
+        "descricao": "ambulatório grandes animais - 02",
+        "predio": "clinica de grandes animais",
+        "numero": "133",
+        "lat": -23.499507505110987,
+        "lng": -47.39423665718661
+    },
+    {
+        "nome": "vet-134",
+        "tipo": "espaco",
+        "descricao": "centro de triagem de animais silvestres",
+        "predio": "cetas",
+        "numero": "134",
+        "lat": -23.499507505110987,
+        "lng": -47.395044111862944
+    },
+    {
+        "apoio 1": "-23.5006912575045, -47.39876188973549"
+    },
+    {
+        "nome": "ap1-001",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de informatica",
+        "predio": "apoio 1",
+        "numero": "001",
+        "lat": -23.5006912575045,
+        "lng": -47.39876188973549
+    },
+    {
+        "nome": "ap1-002",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de informatica",
+        "predio": "apoio 1",
+        "numero": "002",
+        "lat": -23.5006912575045,
+        "lng": -47.39876188973549
+    },
+    {
+        "nome": "ap1-003",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de informatica",
+        "predio": "apoio 1",
+        "numero": "003",
+        "lat": -23.5006912575045,
+        "lng": -47.39876188973549
+    },
+    {
+        "nome": "ap1-004",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de informatica",
+        "predio": "apoio 1",
+        "numero": "004",
+        "lat": -23.5006912575045,
+        "lng": -47.39876188973549
+    },
+    {
+        "nome": "ap1-005",
+        "tipo": "operacional",
+        "descricao": "spd servidor (manutenção)",
+        "predio": "apoio 1",
+        "numero": "005",
+        "lat": -23.5006912575045,
+        "lng": -47.39876188973549
+    },
+    {
+        "nome": "ap1-006",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de informatica",
+        "predio": "apoio 1",
+        "numero": "006",
+        "lat": -23.5006912575045,
+        "lng": -47.39876188973549
+    },
+    {
+        "nome": "ap1-007",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de informatica",
+        "predio": "apoio 1",
+        "numero": "007",
+        "lat": -23.5006912575045,
+        "lng": -47.39876188973549
+    },
+    {
+        "nome": "ap1-008",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de informatica",
+        "predio": "apoio 1",
+        "numero": "008",
+        "lat": -23.5006912575045,
+        "lng": -47.39876188973549
+    },
+    {
+        "nome": "ap1-009",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de informatica",
+        "predio": "apoio 1",
+        "numero": "009",
+        "lat": -23.5006912575045,
+        "lng": -47.39876188973549
+    },
+    {
+        "nome": "ap1-010",
+        "tipo": "operacional",
+        "descricao": "vazia",
+        "predio": "apoio 1",
+        "numero": "010",
+        "lat": -23.5006912575045,
+        "lng": -47.39876188973549
+    },
+    {
+        "nome": "ap1-011",
+        "tipo": "operacional",
+        "descricao": "monitoramento",
+        "predio": "apoio 1",
+        "numero": "011",
+        "lat": -23.5006912575045,
+        "lng": -47.39876188973549
+    },
+    {
+        "nome": "ap1-012",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "apoio 1",
+        "numero": "012",
+        "lat": -23.5006912575045,
+        "lng": -47.39876188973549
+    },
+    {
+        "nome": "ap1-013",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "apoio 1",
+        "numero": "013",
+        "lat": -23.5006912575045,
+        "lng": -47.39876188973549
+    },
+    {
+        "nome": "ap1-101",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de informatica",
+        "predio": "apoio 1",
+        "numero": "101",
+        "lat": -23.5006912575045,
+        "lng": -47.39876188973549
+    },
+    {
+        "nome": "ap1-102",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de informatica",
+        "predio": "apoio 1",
+        "numero": "102",
+        "lat": -23.5006912575045,
+        "lng": -47.39876188973549
+    },
+    {
+        "nome": "ap1-103",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de informatica",
+        "predio": "apoio 1",
+        "numero": "103",
+        "lat": -23.5006912575045,
+        "lng": -47.39876188973549
+    },
+    {
+        "nome": "ap1-104",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de informatica",
+        "predio": "apoio 1",
+        "numero": "104",
+        "lat": -23.5006912575045,
+        "lng": -47.39876188973549
+    },
+    {
+        "nome": "ap1-105",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de informatica",
+        "predio": "apoio 1",
+        "numero": "105",
+        "lat": -23.5006912575045,
+        "lng": -47.39876188973549
+    },
+    {
+        "nome": "ap1-106",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de informatica",
+        "predio": "apoio 1",
+        "numero": "106",
+        "lat": -23.5006912575045,
+        "lng": -47.39876188973549
+    },
+    {
+        "nome": "ap1-107",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de informatica",
+        "predio": "apoio 1",
+        "numero": "107",
+        "lat": -23.5006912575045,
+        "lng": -47.39876188973549
+    },
+    {
+        "nome": "ap1-108",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de informatica",
+        "predio": "apoio 1",
+        "numero": "108",
+        "lat": -23.5006912575045,
+        "lng": -47.39876188973549
+    },
+    {
+        "nome": "ap1-109",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de informatica",
+        "predio": "apoio 1",
+        "numero": "109",
+        "lat": -23.5006912575045,
+        "lng": -47.39876188973549
+    },
+    {
+        "nome": "ap1-110",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de informatica",
+        "predio": "apoio 1",
+        "numero": "110",
+        "lat": -23.5006912575045,
+        "lng": -47.39876188973549
+    },
+    {
+        "nome": "ap1-111",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de informatica",
+        "predio": "apoio 1",
+        "numero": "111",
+        "lat": -23.5006912575045,
+        "lng": -47.39876188973549
+    },
+    {
+        "nome": "ap1-112",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "apoio 1",
+        "numero": "112",
+        "lat": -23.5006912575045,
+        "lng": -47.39876188973549
+    },
+    {
+        "nome": "ap1-113",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "apoio 1",
+        "numero": "113",
+        "lat": -23.5006912575045,
+        "lng": -47.39876188973549
+    },
+    {
+        "apoio 2": "-23.501265187822, -47.39808666024049"
+    },
+    {
+        "nome": "ap2-001",
+        "tipo": "laboratorio",
+        "descricao": "laboratório semi-industrial farmacêutico / lapenm - pesquisa em neurofarmacologia e multidisciplinar",
+        "predio": "apoio 2",
+        "numero": "001",
+        "lat": -23.501265187822,
+        "lng": -47.39808666024049
+    },
+    {
+        "nome": "ap2-002",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de biociências",
+        "predio": "apoio 2",
+        "numero": "002",
+        "lat": -23.501265187822,
+        "lng": -47.39808666024049
+    },
+    {
+        "nome": "ap2-003",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de anatomia humana - 02",
+        "predio": "apoio 2",
+        "numero": "003",
+        "lat": -23.501265187822,
+        "lng": -47.39808666024049
+    },
+    {
+        "nome": "ap2-004",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de anatomia humana - 01",
+        "predio": "apoio 2",
+        "numero": "004",
+        "lat": -23.501265187822,
+        "lng": -47.39808666024049
+    },
+    {
+        "nome": "ap2-005",
+        "tipo": "laboratorio",
+        "descricao": "atividades expressivas e recursos terapêuticos",
+        "predio": "apoio 2",
+        "numero": "005",
+        "lat": -23.501265187822,
+        "lng": -47.39808666024049
+    },
+    {
+        "nome": "ap2-006",
+        "tipo": "laboratorio",
+        "descricao": "cinesiologia e cinesioterapia",
+        "predio": "apoio 2",
+        "numero": "006",
+        "lat": -23.501265187822,
+        "lng": -47.39808666024049
+    },
+    {
+        "nome": "ap2-007",
+        "tipo": "laboratorio",
+        "descricao": "atividades plásticas, tecnológicas e recursos terapêuticos",
+        "predio": "apoio 2",
+        "numero": "007",
+        "lat": -23.501265187822,
+        "lng": -47.39808666024049
+    },
+    {
+        "nome": "ap2-008",
+        "tipo": "sala dos tecnicos",
+        "descricao": "sala técnica - adm01",
+        "predio": "apoio 2",
+        "numero": "008",
+        "lat": -23.501265187822,
+        "lng": -47.39808666024049
+    },
+    {
+        "nome": "ap2-009",
+        "tipo": "laboratorio",
+        "descricao": "análises cromatográficas",
+        "predio": "apoio 2",
+        "numero": "009",
+        "lat": -23.501265187822,
+        "lng": -47.39808666024049
+    },
+    {
+        "nome": "ap2-010",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "apoio 2",
+        "numero": "010",
+        "lat": -23.501265187822,
+        "lng": -47.39808666024049
+    },
+    {
+        "nome": "ap2-011",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "apoio 2",
+        "numero": "011",
+        "lat": -23.501265187822,
+        "lng": -47.39808666024049
+    },
+    {
+        "nome": "ap2-101",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de controle físico químico",
+        "predio": "apoio 2",
+        "numero": "101",
+        "lat": -23.501265187822,
+        "lng": -47.39808666024049
+    },
+    {
+        "nome": "ap2-102",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de análise química",
+        "predio": "apoio 2",
+        "numero": "102",
+        "lat": -23.501265187822,
+        "lng": -47.39808666024049
+    },
+    {
+        "nome": "ap2-103",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de microscopia",
+        "predio": "apoio 2",
+        "numero": "103",
+        "lat": -23.501265187822,
+        "lng": -47.39808666024049
+    },
+    {
+        "nome": "ap2-104",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de controle biológico",
+        "predio": "apoio 2",
+        "numero": "104",
+        "lat": -23.501265187822,
+        "lng": -47.39808666024049
+    },
+    {
+        "nome": "ap2-105",
+        "tipo": "sala dos tecnicos",
+        "descricao": "sala técnica - adm02",
+        "predio": "apoio 2",
+        "numero": "105",
+        "lat": -23.501265187822,
+        "lng": -47.39808666024049
+    },
+    {
+        "nome": "ap2-106",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "apoio 2",
+        "numero": "",
+        "lat": -23.501265187822,
+        "lng": -47.39808666024049
+    },
+    {
+        "nome": "ap2-107",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "apoio 2",
+        "numero": "107",
+        "lat": -23.501265187822,
+        "lng": -47.39808666024049
+    },
+    {
+        "apoio 3": "-23.499741126825565, -47.40024993474794"
+    },
+    {
+        "nome": "ap3-001",
+        "tipo": "secretaria",
+        "descricao": "secretaria",
+        "predio": "apoio 3",
+        "numero": "001",
+        "lat": -23.499741126825565,
+        "lng": -47.40024993474794
+    },
+    {
+        "nome": "ap3-003",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "apoio 3",
+        "numero": "003",
+        "lat": -23.499741126825565,
+        "lng": -47.40024993474794
+    },
+    {
+        "nome": "ap3-006",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "apoio 3",
+        "numero": "006",
+        "lat": -23.499741126825565,
+        "lng": -47.40024993474794
+    },
+    {
+        "nome": "ap3-007",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de confeitaria e panificação",
+        "predio": "apoio 3",
+        "numero": "007",
+        "lat": -23.499741126825565,
+        "lng": -47.40024993474794
+    },
+    {
+        "nome": "ap3-008",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de nutrição",
+        "predio": "apoio 3",
+        "numero": "008",
+        "lat": -23.499741126825565,
+        "lng": -47.40024993474794
+    },
+    {
+        "nome": "ap3-009",
+        "tipo": "almoxarifado",
+        "descricao": "almoxarifado",
+        "predio": "apoio 3",
+        "numero": "009",
+        "lat": -23.499741126825565,
+        "lng": -47.40024993474794
+    },
+    {
+        "nome": "ap3-010",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de alimentos",
+        "predio": "apoio 3",
+        "numero": "010",
+        "lat": -23.499741126825565,
+        "lng": -47.40024993474794
+    },
+    {
+        "nome": "ap3-011",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de cozinha",
+        "predio": "apoio 3",
+        "numero": "011",
+        "lat": -23.499741126825565,
+        "lng": -47.40024993474794
+    },
+    {
+        "nome": "ap3-012",
+        "tipo": "espaco",
+        "descricao": "espaço higienização",
+        "predio": "apoio 3",
+        "numero": "012",
+        "lat": -23.499741126825565,
+        "lng": -47.40024993474794
+    },
+    {
+        "nome": "ap3-013",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de bar",
+        "predio": "apoio 3",
+        "numero": "013",
+        "lat": -23.499741126825565,
+        "lng": -47.40024993474794
+    },
+    {
+        "nome": "ap3-014",
+        "tipo": "vestiario",
+        "descricao": "vestiário masculino",
+        "predio": "apoio 3",
+        "numero": "014",
+        "lat": -23.499741126825565,
+        "lng": -47.40024993474794
+    },
+    {
+        "nome": "ap3-015",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "apoio 3",
+        "numero": "015",
+        "lat": -23.499741126825565,
+        "lng": -47.40024993474794
+    },
+    {
+        "nome": "ap3-016",
+        "tipo": "vestiario",
+        "descricao": "vestiário feminino",
+        "predio": "apoio 3",
+        "numero": "016",
+        "lat": -23.499741126825565,
+        "lng": -47.40024993474794
+    },
+    {
+        "nome": "ap3-017",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "apoio 3",
+        "numero": "017",
+        "lat": -23.499741126825565,
+        "lng": -47.40024993474794
+    },
+    {
+        "nome": "ap3-018",
+        "tipo": "operacional",
+        "descricao": "copa",
+        "predio": "apoio 3",
+        "numero": "018",
+        "lat": -23.499741126825565,
+        "lng": -47.40024993474794
+    },
+    {
+        "apoio 4": "-23.499863983239532, -47.40119089684332"
+    },
+    {
+        "nome": "ap4-001",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "apoio 4",
+        "numero": "001",
+        "lat": -23.499863983239532,
+        "lng": -47.40119089684332
+    },
+    {
+        "nome": "ap4-002",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "apoio 4",
+        "numero": "",
+        "lat": -23.499863983239532,
+        "lng": -47.40119089684332
+    },
+    {
+        "nome": "ap4-003",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "apoio 4",
+        "numero": "003",
+        "lat": -23.499863983239532,
+        "lng": -47.40119089684332
+    },
+    {
+        "nome": "ap4-004",
+        "tipo": "clinica",
+        "descricao": "clínica de radiologia",
+        "predio": "apoio 4",
+        "numero": "004",
+        "lat": -23.499863983239532,
+        "lng": -47.40119089684332
+    },
+    {
+        "nome": "ap4-010",
+        "tipo": "espaco",
+        "descricao": "sala de armários",
+        "predio": "apoio 4",
+        "numero": "010",
+        "lat": -23.499863983239532,
+        "lng": -47.40119089684332
+    },
+    {
+        "nome": "ap4-011",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de bancada",
+        "predio": "apoio 4",
+        "numero": "011",
+        "lat": -23.499863983239532,
+        "lng": -47.40119089684332
+    },
+    {
+        "nome": "ap4-012",
+        "tipo": "laboratorio",
+        "descricao": "vblab - laboratório de vírus e bactérias",
+        "predio": "apoio 4",
+        "numero": "012",
+        "lat": -23.499863983239532,
+        "lng": -47.40119089684332
+    },
+    {
+        "nome": "ap4-013",
+        "tipo": "laboratorio",
+        "descricao": "laboratório lafinau e lapisus",
+        "predio": "apoio 4",
+        "numero": "013",
+        "lat": -23.499863983239532,
+        "lng": -47.40119089684332
+    },
+    {
+        "nome": "ap4-014",
+        "tipo": "espaco",
+        "descricao": "sala de estudos",
+        "predio": "apoio 4",
+        "numero": "014",
+        "lat": -23.499863983239532,
+        "lng": -47.40119089684332
+    },
+    {
+        "nome": "ap4-015",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de uso geral",
+        "predio": "apoio 4",
+        "numero": "015",
+        "lat": -23.499863983239532,
+        "lng": -47.40119089684332
+    },
+    {
+        "nome": "ap4-016",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de manequins odontológicos",
+        "predio": "apoio 4",
+        "numero": "016",
+        "lat": -23.499863983239532,
+        "lng": -47.40119089684332
+    },
+    {
+        "nome": "ap4-017",
+        "tipo": "sala dos tecnicos",
+        "descricao": "sala técnica",
+        "predio": "apoio 4",
+        "numero": "017",
+        "lat": -23.499863983239532,
+        "lng": -47.40119089684332
+    },
+    {
+        "nome": "ap4-018",
+        "tipo": "almoxarifado",
+        "descricao": "depósito de material de limpeza",
+        "predio": "apoio 4",
+        "numero": "011",
+        "lat": -23.499863983239532,
+        "lng": -47.40119089684332
+    },
+    {
+        "nome": "ap4-019",
+        "tipo": "sala dos professores",
+        "descricao": "sala dos professores",
+        "predio": "apoio 4",
+        "numero": "019",
+        "lat": -23.499863983239532,
+        "lng": -47.40119089684332
+    },
+    {
+        "nome": "ap4-101",
+        "tipo": "recepcao",
+        "descricao": "recepção / sala de espera - odontologia",
+        "predio": "apoio 4",
+        "numero": "101",
+        "lat": -23.499863983239532,
+        "lng": -47.40119089684332
+    },
+    {
+        "nome": "ap4-103",
+        "tipo": "clinica",
+        "descricao": "clínica odontológica - 01",
+        "predio": "apoio 4",
+        "numero": "103",
+        "lat": -23.499863983239532,
+        "lng": -47.40119089684332
+    },
+    {
+        "nome": "ap4-105",
+        "tipo": "espaco",
+        "descricao": "área contaminada / expurgo",
+        "predio": "apoio 4",
+        "numero": "105",
+        "lat": -23.499863983239532,
+        "lng": -47.40119089684332
+    },
+    {
+        "nome": "ap4-106",
+        "tipo": "espaco",
+        "descricao": "armazenagem entrega",
+        "predio": "apoio 4",
+        "numero": "106",
+        "lat": -23.499863983239532,
+        "lng": -47.40119089684332
+    },
+    {
+        "nome": "ap4-107",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de apoio",
+        "predio": "apoio 4",
+        "numero": "107",
+        "lat": -23.499863983239532,
+        "lng": -47.40119089684332
+    },
+    {
+        "nome": "ap4-108",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "apoio 4",
+        "numero": "108",
+        "lat": -23.499863983239532,
+        "lng": -47.40119089684332
+    },
+    {
+        "nome": "ap4-109",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de próteses",
+        "predio": "apoio 4",
+        "numero": "109",
+        "lat": -23.499863983239532,
+        "lng": -47.40119089684332
+    },
+    {
+        "nome": "ap4-110",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "apoio 4",
+        "numero": "110",
+        "lat": -23.499863983239532,
+        "lng": -47.40119089684332
+    },
+    {
+        "nome": "ap4-111",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "apoio 4",
+        "numero": "111",
+        "lat": -23.499863983239532,
+        "lng": -47.40119089684332
+    },
+    {
+        "nome": "ap4-114",
+        "tipo": "almoxarifado",
+        "descricao": "almoxarifado",
+        "predio": "apoio 4",
+        "numero": "114",
+        "lat": -23.499863983239532,
+        "lng": -47.40119089684332
+    },
+    {
+        "bloco a": "-23.50038099994726, -47.39816193739907"
+    },
+    {
+        "nome": "bla-001",
+        "tipo": "cantina",
+        "descricao": "edmon's",
+        "predio": "bloco a",
+        "numero": "001",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-002",
+        "tipo": "nucleo",
+        "descricao": "núcleo de acessibilidade",
+        "predio": "bloco a",
+        "numero": "002",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-003",
+        "tipo": "clinica",
+        "descricao": "clínica de psicologia serviço escola",
+        "predio": "bloco a",
+        "numero": "003",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-004",
+        "tipo": "vestiario",
+        "descricao": "vestiário feminino",
+        "predio": "bloco a",
+        "numero": "004",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-005",
+        "tipo": "vestiario",
+        "descricao": "vestiário masculino",
+        "predio": "bloco a",
+        "numero": "005",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-006",
+        "tipo": "coordenacao",
+        "descricao": "responsável técnico clínica escola",
+        "predio": "bloco a",
+        "numero": "006",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-007",
+        "tipo": "laboratorio",
+        "descricao": "laboratório integrado do movimento humano",
+        "predio": "bloco a",
+        "numero": "007",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-008",
+        "tipo": "clinica",
+        "descricao": "clínica de nutrição",
+        "predio": "bloco a",
+        "numero": "006",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-101 a",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco a",
+        "numero": "101 a",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-101 b",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco a",
+        "numero": "101 b",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-102 a",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de educação de matemática",
+        "predio": "bloco a",
+        "numero": "102 a",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-102 b",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco a",
+        "numero": "102 b",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-103",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco a",
+        "numero": "103",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-104 a",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco a",
+        "numero": "104 a",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-104 b",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco a",
+        "numero": "104 b",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-105 a",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco a",
+        "numero": "105 a",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-105 b",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco a",
+        "numero": "105 b",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-106",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "bloco a",
+        "numero": "106",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-107",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco a",
+        "numero": "107",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-108",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco a",
+        "numero": "108",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-109",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "bloco a",
+        "numero": "109",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-201 a",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco a",
+        "numero": "201 a",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-201 b",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco a",
+        "numero": "201 b",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-202",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco a",
+        "numero": "202",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-203",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco a",
+        "numero": "203",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-204",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco a",
+        "numero": "204",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-205 a",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco a",
+        "numero": "205 a",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-205 b",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "bloco a",
+        "numero": "205 b",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-206",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "bloco a",
+        "numero": "206",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-207",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco a",
+        "numero": "207",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-208",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "bloco a",
+        "numero": "208",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-301",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco a",
+        "numero": "301",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-302",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco a",
+        "numero": "302",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-303",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco a",
+        "numero": "303",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-304",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco a",
+        "numero": "304",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-305",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco a",
+        "numero": "305",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-306",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "bloco a",
+        "numero": "306",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-307",
+        "tipo": "coordenacao",
+        "descricao": "coordenação",
+        "predio": "bloco a",
+        "numero": "2",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-308",
+        "tipo": "coordenacao",
+        "descricao": "coordenação",
+        "predio": "bloco a",
+        "numero": "",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "nome": "bla-309",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "bloco a",
+        "numero": "309",
+        "lat": -23.50038099994726,
+        "lng": -47.39816193739907
+    },
+    {
+        "bloco b": "-23.50060336868681, -47.397687902466195"
+    },
+    {
+        "nome": "blb-001",
+        "tipo": "restaurante",
+        "descricao": "yakisan",
+        "predio": "bloco b",
+        "numero": "001",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-002",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de rádio",
+        "predio": "bloco b",
+        "numero": "002",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-003",
+        "tipo": "laboratorio",
+        "descricao": "estúdio de tv",
+        "predio": "bloco b",
+        "numero": "003",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-004",
+        "tipo": "coordenacao",
+        "descricao": "coordenação / laboratório de comunicação",
+        "predio": "bloco b",
+        "numero": "004",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-005",
+        "tipo": "vestiario",
+        "descricao": "vestiário feminino",
+        "predio": "bloco b",
+        "numero": "005",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-006",
+        "tipo": "vestiario",
+        "descricao": "vestiário masculino",
+        "predio": "bloco b",
+        "numero": "006",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-007",
+        "tipo": "espaco",
+        "descricao": "espaço 4 hub",
+        "predio": "bloco b",
+        "numero": "007",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-101 a",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco b",
+        "numero": "101 a",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-101 b",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco b",
+        "numero": "101 b",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-102 a",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco b",
+        "numero": "102 a",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-102 b",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco b",
+        "numero": "102 b",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-103",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco b",
+        "numero": "103",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-104 a",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco b",
+        "numero": "104 a",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-104 b",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco b",
+        "numero": "104 b",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-105 a",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco b",
+        "numero": "105 a",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-105 b",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco b",
+        "numero": "",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-106",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "bloco b",
+        "numero": "106",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-107",
+        "tipo": "agencia",
+        "descricao": "agencia experimental de relações públicas - jornal",
+        "predio": "bloco b",
+        "numero": "107",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-108",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco b",
+        "numero": "108",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-109",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "bloco b",
+        "numero": "109",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-201 a",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco b",
+        "numero": "201 a",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-201 b",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco b",
+        "numero": "201 b",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-202",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco b",
+        "numero": "202",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-203",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco b",
+        "numero": "203",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-204",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco b",
+        "numero": "204",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-205 a",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco b",
+        "numero": "205 a",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-205 b",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco b",
+        "numero": "205 b",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-206",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "bloco b",
+        "numero": "206",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "bla-207",
+        "tipo": "sala dos professores",
+        "descricao": "sala dos professores",
+        "predio": "bloco b",
+        "numero": "207",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "bla-208",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "bloco b",
+        "numero": "208",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-301",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco b",
+        "numero": "301",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-302",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco b",
+        "numero": "302",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-303",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco b",
+        "numero": "303",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-304",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco b",
+        "numero": "304",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-305",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco b",
+        "numero": "305",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-306",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco b",
+        "numero": "306",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-307",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco b",
+        "numero": "307",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-308",
+        "tipo": "nucleo",
+        "descricao": "núcleo de práticas jurídicas",
+        "predio": "bloco b",
+        "numero": "308",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-309",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "bloco b",
+        "numero": "309",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "nome": "blb-310",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "bloco b",
+        "numero": "310",
+        "lat": -23.50060336868681,
+        "lng": -47.397687902466195
+    },
+    {
+        "bloco c": "-23.50096447245886, -47.39753207154547"
+    },
+    {
+        "nome": "blc-001",
+        "tipo": "cantina",
+        "descricao": "cantina bloco c",
+        "predio": "bloco c",
+        "numero": "001",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-002",
+        "tipo": "auditorio",
+        "descricao": "camarim auditório",
+        "predio": "bloco c",
+        "numero": "002",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-003",
+        "tipo": "auditorio",
+        "descricao": "auditório bloco c",
+        "predio": "bloco c",
+        "numero": "003",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-004",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de serigrafia e protótipos",
+        "predio": "bloco c",
+        "numero": "004",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-005",
+        "tipo": "coordenacao",
+        "descricao": "coordenação design",
+        "predio": "bloco c",
+        "numero": "005",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-006",
+        "tipo": "clinica",
+        "descricao": "centro de estética",
+        "predio": "bloco c",
+        "numero": "006",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-007",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "bloco c",
+        "numero": "007",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-008",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "bloco c",
+        "numero": "008",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-101 a",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco c",
+        "numero": "101 a",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "bla-101 b",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco c",
+        "numero": "101 b",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-102 a",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco c",
+        "numero": "102 a",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-102 b",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco c",
+        "numero": "102 b",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-103",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco c",
+        "numero": "103",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-104 a",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco c",
+        "numero": "104 a",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-104 b",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco c",
+        "numero": "104 b",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-105 a",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco c",
+        "numero": "105 a",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-105 b",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco c",
+        "numero": "105 b",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-106",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "bloco c",
+        "numero": "106",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-107",
+        "tipo": "clinica",
+        "descricao": "clínica escola de fonoaudiologia",
+        "predio": "bloco c",
+        "numero": "107",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-108",
+        "tipo": "clinica",
+        "descricao": "clínica escola de fonoaudiologia",
+        "predio": "bloco c",
+        "numero": "108",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-109",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "bloco c",
+        "numero": "109",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-201 a",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco c",
+        "numero": "201 a",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-201 b",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco c",
+        "numero": "201 b",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-202",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco c",
+        "numero": "202",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-203",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco c",
+        "numero": "203",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-204",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco c",
+        "numero": "204",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-205 a",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco c",
+        "numero": "205 a",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-205 b",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco c",
+        "numero": "205 b",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-206",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "bloco c",
+        "numero": "206",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-207",
+        "tipo": "sala dos professores",
+        "descricao": "sala dos professores",
+        "predio": "bloco c",
+        "numero": "207",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-208",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "bloco c",
+        "numero": "208",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-301",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco c",
+        "numero": "301",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-302",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco c",
+        "numero": "302",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-303",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco c",
+        "numero": "303",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-304",
+        "tipo": "laboratorio",
+        "descricao": "metodologias ativas",
+        "predio": "bloco c",
+        "numero": "304",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-305",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco c",
+        "numero": "305",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-306",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "bloco c",
+        "numero": "306",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-307",
+        "tipo": "coordenacao",
+        "descricao": "coordenação",
+        "predio": "bloco c",
+        "numero": "307",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-308",
+        "tipo": "coordenacao",
+        "descricao": "coordenação",
+        "predio": "bloco c",
+        "numero": "308",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "nome": "blc-309",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "bloco c",
+        "numero": "309",
+        "lat": -23.50096447245886,
+        "lng": -47.39753207154547
+    },
+    {
+        "bloco d": "-23.501383640893444, -47.397302581950846"
+    },
+    {
+        "nome": "bld-001",
+        "tipo": "restaurante",
+        "descricao": "famille",
+        "predio": "bloco d",
+        "numero": "001",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-002",
+        "tipo": "auditorio",
+        "descricao": "auditório bloco d",
+        "predio": "bloco d",
+        "numero": "002",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-003",
+        "tipo": "vestiario",
+        "descricao": "vestiário feminino",
+        "predio": "bloco d",
+        "numero": "003",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-004",
+        "tipo": "vestiario",
+        "descricao": "vestiário masculino",
+        "predio": "bloco d",
+        "numero": "004",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-005",
+        "tipo": "clinica",
+        "descricao": "centro de estética",
+        "predio": "bloco d",
+        "numero": "005",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-101 a",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco d",
+        "numero": "101 a",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-101 b",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco d",
+        "numero": "101 b",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-102 a",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco d",
+        "numero": "102 a",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-102 b",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco d",
+        "numero": "102 b",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-103",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de moda",
+        "predio": "bloco d",
+        "numero": "103",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-104 a",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco d",
+        "numero": "104 a",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-104 b",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco d",
+        "numero": "104 b",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-105 a",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco d",
+        "numero": "105 b",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-106",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "bloco d",
+        "numero": "106",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-107",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco d",
+        "numero": "107",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-108",
+        "tipo": "laboratorio",
+        "descricao": "sala acústica",
+        "predio": "bloco d",
+        "numero": "108",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-109",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "bloco d",
+        "numero": "109",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-201 a",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco d",
+        "numero": "201 a",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-201 b",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco d",
+        "numero": "201 a",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-202",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco d",
+        "numero": "202",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-203",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco d",
+        "numero": "203",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-204",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco d",
+        "numero": "204",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-205 a",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco d",
+        "numero": "205 a",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-205 b",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco d",
+        "numero": "205 b",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-206",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "bloco d",
+        "numero": "207",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-207",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de práticas clínicas / práticas terapêuticas",
+        "predio": "bloco d",
+        "numero": "207",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-208",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de práticas clínicas / práticas terapêuticas",
+        "predio": "bloco d",
+        "numero": "208",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-209",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "bloco d",
+        "numero": "209",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-301",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco d",
+        "numero": "301",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-302",
+        "tipo": "espaco",
+        "descricao": "sala multi uso",
+        "predio": "bloco d",
+        "numero": "302",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-303",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco d",
+        "numero": "303",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-304",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco d",
+        "numero": "304",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-305",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco d",
+        "numero": "305",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-306",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "bloco d",
+        "numero": "306",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-307",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco d",
+        "numero": "307",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-308",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco d",
+        "numero": "308",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-309",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "bloco d",
+        "numero": "309",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-401",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de astronomia",
+        "predio": "bloco d",
+        "numero": "401",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-402",
+        "tipo": "espaco",
+        "descricao": "multi uso",
+        "predio": "bloco d",
+        "numero": "402",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-403",
+        "tipo": "espaco",
+        "descricao": "multi uso",
+        "predio": "bloco d",
+        "numero": "403",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-404",
+        "tipo": "espaco",
+        "descricao": "multi uso",
+        "predio": "bloco d",
+        "numero": "404",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-405",
+        "tipo": "espaco",
+        "descricao": "multi uso",
+        "predio": "bloco d",
+        "numero": "405",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-4067",
+        "tipo": "espaco",
+        "descricao": "multi uso",
+        "predio": "bloco d",
+        "numero": "4067",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-407",
+        "tipo": "espaco",
+        "descricao": "multi uso",
+        "predio": "bloco d",
+        "numero": "407",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-408",
+        "tipo": "espaco",
+        "descricao": "multi uso",
+        "predio": "bloco d",
+        "numero": "408",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-409",
+        "tipo": "espaco",
+        "descricao": "multi uso",
+        "predio": "bloco d",
+        "numero": "409",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "nome": "bld-410",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de ciências aplicadas",
+        "predio": "bloco d",
+        "numero": "410",
+        "lat": -23.501383640893444,
+        "lng": -47.397302581950846
+    },
+    {
+        "bloco e": "-23.49938718270607, -47.40057847406496"
+    },
+    {
+        "nome": "ble-001",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de pedagogia",
+        "predio": "bloco e",
+        "numero": "001",
+        "lat": -23.49938718270607,
+        "lng": -47.40057847406496
+    },
+    {
+        "nome": "ble-002",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de informatica",
+        "predio": "bloco e",
+        "numero": "002",
+        "lat": -23.49938718270607,
+        "lng": -47.40057847406496
+    },
+    {
+        "nome": "ble-003",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de elementos de máquinas",
+        "predio": "bloco e",
+        "numero": "003",
+        "lat": -23.49938718270607,
+        "lng": -47.40057847406496
+    },
+    {
+        "nome": "ble-004",
+        "tipo": "sala dos tecnicos",
+        "descricao": "sala dos técnicos",
+        "predio": "bloco e",
+        "numero": "004",
+        "lat": -23.49938718270607,
+        "lng": -47.40057847406496
+    },
+    {
+        "nome": "ble-005",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de automobilística e motores à combustão",
+        "predio": "bloco e",
+        "numero": "005",
+        "lat": -23.49938718270607,
+        "lng": -47.40057847406496
+    },
+    {
+        "nome": "ble-006",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de máquinas elétricas",
+        "predio": "bloco e",
+        "numero": "006",
+        "lat": -23.49938718270607,
+        "lng": -47.40057847406496
+    },
+    {
+        "nome": "ble-007",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de metrologia e projetos",
+        "predio": "bloco e",
+        "numero": "007",
+        "lat": -23.49938718270607,
+        "lng": -47.40057847406496
+    },
+    {
+        "nome": "ble-008",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de propriedades termofísicas",
+        "predio": "bloco e",
+        "numero": "008",
+        "lat": -23.49938718270607,
+        "lng": -47.40057847406496
+    },
+    {
+        "nome": "ble-009",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de robótica e automação",
+        "predio": "bloco e",
+        "numero": "009",
+        "lat": -23.49938718270607,
+        "lng": -47.40057847406496
+    },
+    {
+        "nome": "ble-010",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de eletricidade e eletrônica",
+        "predio": "bloco e",
+        "numero": "010",
+        "lat": -23.49938718270607,
+        "lng": -47.40057847406496
+    },
+    {
+        "nome": "ble-011",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "bloco e",
+        "numero": "011",
+        "lat": -23.49938718270607,
+        "lng": -47.40057847406496
+    },
+    {
+        "nome": "ble-012",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de processamento de alimentos de origem vegetal",
+        "predio": "bloco e",
+        "numero": "012",
+        "lat": -23.49938718270607,
+        "lng": -47.40057847406496
+    },
+    {
+        "nome": "ble-013",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de processamento de alimentos de origem animal",
+        "predio": "bloco e",
+        "numero": "013",
+        "lat": -23.49938718270607,
+        "lng": -47.40057847406496
+    },
+    {
+        "nome": "ble-014",
+        "tipo": "laboratorio",
+        "descricao": "labiton - laboratorio de avaliação de bioatividade e toxicologia de nanomateriais",
+        "predio": "bloco e",
+        "numero": "014",
+        "lat": -23.49938718270607,
+        "lng": -47.40057847406496
+    },
+    {
+        "nome": "ble-015",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "bloco c",
+        "numero": "015",
+        "lat": -23.49938718270607,
+        "lng": -47.40057847406496
+    },
+    {
+        "nome": "ble-016",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de materiais",
+        "predio": "bloco e",
+        "numero": "016",
+        "lat": -23.49938718270607,
+        "lng": -47.40057847406496
+    },
+    {
+        "nome": "ble-017",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de análise sensorial de alimentos",
+        "predio": "bloco e",
+        "numero": "017",
+        "lat": -23.49938718270607,
+        "lng": -47.40057847406496
+    },
+    {
+        "nome": "ble-018",
+        "tipo": "laboratorio",
+        "descricao": "laboratório de informatica",
+        "predio": "bloco e",
+        "numero": "018",
+        "lat": -23.49938718270607,
+        "lng": -47.40057847406496
+    },
+    {
+        "bloco f": "-23.498912437515955, -47.39978586857084"
+    },
+    {
+        "nome": "blf-001",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "bloco f",
+        "numero": "001",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-002",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "bloco f",
+        "numero": "002",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-003",
+        "tipo": "auditorio",
+        "descricao": "auditório bloco f",
+        "predio": "bloco f",
+        "numero": "003",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-004",
+        "tipo": "cantina",
+        "descricao": "sabor do saber",
+        "predio": "bloco f",
+        "numero": "004",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-005",
+        "tipo": "nucleo",
+        "descricao": "vazia",
+        "predio": "bloco f",
+        "numero": "005",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-006",
+        "tipo": "laboratorio",
+        "descricao": "gamelab",
+        "predio": "bloco f",
+        "numero": "006",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-008",
+        "tipo": "nucleo",
+        "descricao": "núcleo ti",
+        "predio": "bloco f",
+        "numero": "006",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-101",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "bloco f",
+        "numero": "101",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-102",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "bloco f",
+        "numero": "102",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-104",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "104",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-105",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "105",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-106",
+        "tipo": "sala de aula",
+        "descricao": "",
+        "predio": "bloco f",
+        "numero": "106",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-107",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "107",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-108",
+        "tipo": "sala de aula",
+        "descricao": "",
+        "predio": "bloco f",
+        "numero": "108",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-109",
+        "tipo": "sala de aula",
+        "descricao": "",
+        "predio": "bloco f",
+        "numero": "109",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-110",
+        "tipo": "sala de aula",
+        "descricao": "",
+        "predio": "bloco f",
+        "numero": "110",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-111",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "111",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-112",
+        "tipo": "sala de aula",
+        "descricao": "",
+        "predio": "bloco f",
+        "numero": "113",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-113",
+        "tipo": "sala de aula",
+        "descricao": "",
+        "predio": "bloco f",
+        "numero": "113",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-114",
+        "tipo": "sala de aula",
+        "descricao": "",
+        "predio": "bloco f",
+        "numero": "114",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-115",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "115",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-116",
+        "tipo": "sala de aula",
+        "descricao": "",
+        "predio": "bloco f",
+        "numero": "116",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-117",
+        "tipo": "sala de aula",
+        "descricao": "",
+        "predio": "bloco f",
+        "numero": "117",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-118",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "118",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-119",
+        "tipo": "sala de aula",
+        "descricao": "",
+        "predio": "bloco f",
+        "numero": "119",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-201",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "bloco f",
+        "numero": "201",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-202",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "bloco f",
+        "numero": "202",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-204",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "204",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-205",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "205",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-206",
+        "tipo": "sala de aula",
+        "descricao": "",
+        "predio": "bloco f",
+        "numero": "206",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-207",
+        "tipo": "sala dos professores",
+        "descricao": "sala dos professores",
+        "predio": "bloco f",
+        "numero": "207",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-208",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "208",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-209",
+        "tipo": "sala de aula",
+        "descricao": "",
+        "predio": "bloco f",
+        "numero": "209",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-210",
+        "tipo": "sala de aula",
+        "descricao": "",
+        "predio": "bloco f",
+        "numero": "210",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-211",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "211",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-212",
+        "tipo": "sala de aula",
+        "descricao": "",
+        "predio": "bloco f",
+        "numero": "212",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-213",
+        "tipo": "sala de aula",
+        "descricao": "",
+        "predio": "bloco f",
+        "numero": "213",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-214",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "214",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-215",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "215",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-216",
+        "tipo": "coordenação",
+        "descricao": "coordenação",
+        "predio": "bloco f",
+        "numero": "216",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-217",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "216",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-301",
+        "tipo": "banheiro",
+        "descricao": "banheiro feminino",
+        "predio": "bloco f",
+        "numero": "301",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-302",
+        "tipo": "banheiro",
+        "descricao": "banheiro masculino",
+        "predio": "bloco f",
+        "numero": "302",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-304",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "304",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-305",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "305",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-306",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "306",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-307",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "307",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-308",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "308",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-309",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "309",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-310",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "310",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-311",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "311",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-312",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "313",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-313",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "313",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-314",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "314",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-315",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "315",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-316",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "316",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-317",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "317",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-318",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "318",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "nome": "blf-319",
+        "tipo": "sala de aula",
+        "descricao": "sala de aula",
+        "predio": "bloco f",
+        "numero": "319",
+        "lat": -23.498912437515955,
+        "lng": -47.39978586857084
+    },
+    {
+        "neas": "-23.496780373766796, -47.3887855194163"
+    },
+    {
+        "nome": "nea-001",
+        "tipo": "laboratorio",
+        "descricao": "lapetox - unidade 1",
+        "predio": "neas",
+        "numero": "001",
+        "lat": -23.496780373766796,
+        "lng": -47.3887855194163
+    },
+    {
+        "nome": "nea-002",
+        "tipo": "laboratorio",
+        "descricao": "lapetox - unidade 2",
+        "predio": "neas",
+        "numero": "002",
+        "lat": -23.496780373766796,
+        "lng": -47.3887855194163
+    },
+    {
+        "nome": "nea-003",
+        "tipo": "espaco",
+        "descricao": "casarão",
+        "predio": "neas",
+        "numero": "003",
+        "lat": -23.496780373766796,
+        "lng": -47.3887855194163
+    },
+    {
+        "nome": "nea-004",
+        "tipo": "estufa",
+        "descricao": "estufa - 01",
+        "predio": "neas",
+        "numero": "004",
+        "lat": -23.496780373766796,
+        "lng": -47.3887855194163
+    },
+    {
+        "nome": "nea-005",
+        "tipo": "estufa",
+        "descricao": "estufa - 02",
+        "predio": "neas",
+        "numero": "005",
+        "lat": -23.496780373766796,
+        "lng": -47.3887855194163
+    },
+    {
+        "nome": "nea-006",
+        "tipo": "laboratorio",
+        "descricao": "neas",
+        "predio": "neas",
+        "numero": "006",
+        "lat": -23.496780373766796,
+        "lng": -47.3887855194163
+    },
+    {
+        "nome": "nea-005",
+        "tipo": "laboratorio",
+        "descricao": "neas",
+        "predio": "exerno",
+        "numero": "005",
+        "lat": -23.496780373766796,
+        "lng": -47.3887855194163
+    },
+    {
+        "nome": "nea-005",
+        "tipo": "laboratorio",
+        "descricao": "neas",
+        "predio": "exerno",
+        "numero": "005",
+        "lat": -23.496780373766796,
+        "lng": -47.3887855194163
+    },
+    {
+        "estacionamento": "-23.499773851519926, -47.39843752851843",
+        "estacionamento vans": "-23.500919737817107, -47.39573548750352"
+    },
+    {
+        "nome": "est-001",
+        "tipo": "estacionamento",
+        "descricao": "estacionamento geral",
+        "predio": "exerno",
+        "numero": "001",
+        "lat": -23.499773851519926,
+        "lng": -47.39843752851843
+    },
+    {
+        "nome": "est-002",
+        "tipo": "estacionamento",
+        "descricao": "estacionamento ônibus / vans",
+        "predio": "exerno",
+        "numero": "002",
+        "lat": -23.500919737817107,
+        "lng": -47.39573548750352
+    },
+    {
+        "quadras": "-23.501927839296677, -47.3973417921938"
+    },
+    {
+        "nome": "qdr-003",
+        "tipo": "quadra",
+        "descricao": "quadra / campo - poliesportivo",
+        "predio": "exerno",
+        "numero": "003",
+        "lat": -23.501927839296677,
+        "lng": -47.3973417921938
+    },
+    {
+        "lapec": "-23.502171350434406, -47.39799625120304"
+    },
+    {
+        "nome": "lpc-004",
+        "tipo": "laboratorio",
+        "descricao": "lapec",
+        "predio": "exerno",
+        "numero": "004",
+        "lat": -23.501927839296677,
+        "lng": -47.3973417921938
+    },
+    {
+        "cantina na lata": "-23.499571772208, -47.40034878040092"
+    },
+    {
+        "nome": "ctn-006",
+        "tipo": "cantina",
+        "descricao": "na lata",
+        "predio": "exerno",
+        "numero": "006",
+        "lat": -23.499571772208,
+        "lng": -47.40034878040092
+    }
+]

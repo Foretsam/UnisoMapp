@@ -1,0 +1,143 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(90deg, #9ee5ee, #b79ae6);
+    font-family: 'Poppins', sans-serif;
+}
+
+.header-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    margin: 2%;
+}
+
+.informacoes {
+    background-color: rgba(255, 255, 255, 0.589);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    width: 40%;
+}
+
+.informacoes h1 {
+    margin: 8px;
+    color: #000000;
+    font-size: 25px;
+}
+
+.guia-do-aluno-main {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    /* padding-top: 50px; */
+}
+
+.forms-placeholder{
+    margin-top: -200px;
+    text-align: center;
+    color: #000000;
+    font-size: 25px;
+}
+
+.accordion {
+    width: 70%;
+    max-width: 800px;
+}
+
+.accordion .contentBx {
+    width: 100%;
+    margin: 20px 0;
+    padding: 10px;
+    box-shadow: 6px 6px 10px -1px rgba(0, 0, 0, 0.15),
+    -6px -6px 10px -1px rgba(225, 225, 225, 0.7);
+    border-radius: 8px;
+    background: #e3edf7;
+    transition: all 0.4s ease;
+}
+
+.accordion .contentBx .label {
+    position: relative;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.accordion .contentBx .label::before {
+    content: '+';
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    font-size: 1.5em;
+}
+
+.accordion .contentBx.active .label::before {
+    content: '-';
+}
+
+.accordion .contentBx .content {
+    position: relative;
+    color: #555;
+    padding: 0 10px;
+    line-height: 26px;
+    height: 0;
+    overflow: hidden;
+    transition: height 0.5s ease, padding 0.5s ease;
+    overflow-y: auto;
+}
+
+.accordion .contentBx.active .content {
+    height: 100px;
+    padding: 10px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+
+.button{
+    font-size: 25px;
+    width: calc(100%-20px);
+    margin: 20px 0;
+    padding: 10px;
+    box-shadow: 6px 6px 10px -1px rgba(0, 0, 0, 0.15),
+    -6px -6px 10px -1px rgba(160, 128, 196, 0.7);
+    border-radius: 8px;
+    border-color: #320083;
+    background: #b79ae6;
+    transition: all 0.4s ease;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 770px){
+    .header {
+        margin-top: 60px;
+    }
+    .informacoes{
+        width: 75%;
+    }
+    .informacoes h3{
+        font-size: 12px;
+    }
+    
+}

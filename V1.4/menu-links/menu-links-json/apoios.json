@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "curso": "Música",
+        "predio": "Apoio 1",
+        "andar": "térreo",
+        "sala": "AP1-003",
+        "professor": "Adriano"
+    },
+    {
+        "id": 2,
+        "curso": "Terapia Ocupacional",
+        "predio": "Apoio 2",
+        "andar": "térreo",
+        "sala": "AP2 - 005 Laboratório de Atividades Expressivas e Recursos Terapêuticos",
+        "professor": "Rafael"
+    },
+    {
+        "id": 3,
+        "curso": "Terapia Ocupacional",
+        "predio": "Apoio 2",
+        "andar": "térreo",
+        "sala": "AP2 - 006 Laboratório de Atividades Plásticas,Tecnológicas e Recursos Terapêuticos",
+        "professor": "Rafael"
+    },
+    {
+        "id": 4,
+        "curso": "Terapia Ocupacional",
+        "predio": "Apoio 2",
+        "andar": "térreo",
+        "sala": "AP2 - 007 Laboratório de Cinesiologia e Cinesioterapia",
+        "professor": "Rafael"
+    },
+    {
+        "id": 5,
+        "curso": "Gastronomia",
+        "predio": "Apoio 3",
+        "andar": "térreo",
+        "sala": "Laboratório de Confeitaria",
+        "professor": "Juliana "
+    },
+    {
+        "id": 6,
+        "curso": "Nutrição",
+        "predio": "Apoio 3",
+        "andar": "térreo",
+        "sala": "Laboratório de Alimentos",
+        "professor": "Tatiane"
+    },
+    {
+        "id": 7,
+        "curso": "Nutrição",
+        "predio": "Apoio 3",
+        "andar": "térreo",
+        "sala": "Laboratório de Análise Nutricional",
+        "professor": "Tatiane"
+    },
+    {
+        "id": 8,
+        "curso": "Engenharia de Alimentos",
+        "predio": "Apoio 3",
+        "andar": "térreo",
+        "sala": "AP3 - 003",
+        "professor": "Andreza"
+    },
+    {
+        "id": 9,
+        "curso": "Nutrição",
+        "predio": "Apoio 3",
+        "andar": "térreo",
+        "sala": "AP3 - 006",
+        "professor": "Márcia"
+    },
+    {
+        "id": 10,
+        "curso": "Nutrição",
+        "predio": "Apoio 3",
+        "andar": "térreo",
+        "sala": "Laboratório de Demonstração de Restaurante/Bar",
+        "professor": "Márcia"
+    },   
+    {
+        "id": 11,
+        "curso": "Odontologia",
+        "predio": "Apoio 4",
+        "andar": "1º andar",
+        "sala": "Sala - 001",
+        "professor": "Fernanda "
+    },
+    {
+        "id": 12,
+        "curso": "Odontologia",
+        "predio": "Apoio 4",
+        "andar": "1º andar",
+        "sala": "Sala - 002",
+        "professor": "Alessiana  "
+    },
+    {
+        "id": 12,
+        "curso": "Odontologia",
+        "predio": "Apoio 4",
+        "andar": "1º andar",
+        "sala": "Laboratório de Uso Geral",
+        "professor": "Aline   "
+    },
+    {
+        "id": 13,
+        "curso": "Odontologia",
+        "predio": "Apoio 4",
+        "andar": "1º andar",
+        "sala": "Laboratório de Bancadas",
+        "professor": "Fernanda "
+    }
+]

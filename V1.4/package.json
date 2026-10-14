@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@gegeweb/leaflet-routing-machine-openroute": "^0.1.10",
+    "express": "^4.19.2",
+    "leaflet-routing-machine": "^3.2.12"
+  },
+  "name": "v1.4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,287 @@
+/* Esse css é aplicado em todas as páginas, modifique com cuidado!!! 
+Não modifique a classe parent-master, use o css especifico da página para isso (Schuab)*/
+/* Import a serem usados no css */
+@import url('https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+:root {
+    --clr: #14161e;
+}
+
+
+body {
+    min-height: 100%;
+    background: linear-gradient(45deg, #9ee5ee, #b79ae6);
+
+}
+
+/* Menu desktop */
+.menuDesktop-sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 80px;
+    height: 100%;
+    background: #fff;
+    backdrop-filter: blur(40px);
+    border-right: 2px solid rgba(41, 10, 165, 0.3);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    padding: 6px 14px;
+    transition: .5s;
+    z-index: 999;
+}
+
+.menuDesktop-sidebar.menuDesktop-active {
+    width: 260px;
+}
+
+.menuDesktop-sidebar .menuDesktop-logo-menu {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 70px;
+}
+
+.menuDesktop-sidebar .menuDesktop-logo-menu .menuDesktop-logo {
+    font-size: 25px;
+    color: #212427;
+    pointer-events: none;
+    opacity: 0;
+    transition: .3s;
+}
+
+.menuDesktop-sidebar.menuDesktop-active .menuDesktop-logo-menu .menuDesktop-logo {
+    opacity: 1;
+    transition-delay: .2s;
+}
+
+.menuDesktop-sidebar .menuDesktop-logo-menu .menuDesktop-toggle-btn {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 40px;
+    height: 40px;
+    font-size: 35px;
+    color: #212427;
+    text-align: center;
+    line-height: 40px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.menuDesktop-sidebar.menuDesktop-active .menuDesktop-logo-menu .menuDesktop-toggle-btn {
+    left: 90%;
+}
+
+.menuDesktop-sidebar .menuDesktop-list {
+    margin-top: 10px;
+}
+
+.menuDesktop-list .menuDesktop-list-item {
+    list-style: none;
+    width: 100%;
+    height: 50px;
+    margin: 40px 0;
+    line-height: 50px;
+}
+
+.menuDesktop-list .menuDesktop-list-item a {
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    color: #212427;
+    text-decoration: none;
+    border-radius: 6px;
+    white-space: nowrap;
+    transition: .5s;
+}
+
+.menuDesktop-list .menuDesktop-list-item.menuDesktop-active a,
+.menuDesktop-list .menuDesktop-list-item a:hover {
+    background: rgba(66, 58, 223, 0.588);
+
+}
+
+.menuDesktop-list .menuDesktop-list-item a .bx {
+    min-height: 50px;
+    height: 50px;
+    font-size: 30px;
+    margin-left: 10px;
+    text-align: center;
+    line-height: 50px;
+}
+
+.menuDesktop-sidebar .menuDesktop-link-name {
+    margin-left: 20px;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity .3s;
+}
+
+.menuDesktop-sidebar.menuDesktop-active .menuDesktop-link-name {
+    opacity: 1;
+    pointer-events: auto;
+    transition-delay: calc(.1s * var(--i));
+}
+
+.menuMobile-sidebar {
+    display: none;
+}
+
+
+@media (max-width: 770px) {
+    :root {
+        /*Definição de váriaveis para facilitar o acesso em outras partes*/
+        --clr: #222327
+    }
+
+    .menuDesktop-sidebar {
+        display: none;
+    }
+
+    /* Menu mobile (Schuab)*/
+    .menuMobile-sidebar {
+        display: block;
+        position: fixed;
+        top: 0;
+        left: 0px;
+        width: 80px;
+        height: 100%;
+        background: transparent;
+        padding: 6px 14px;
+        transition: .5s;
+        z-index: 999;
+    }
+
+    .menuMobile-sidebar.menuMobile-active {
+        width: 260px;
+        background: #fff;
+        backdrop-filter: blur(40px);
+        border-right: 2px solid rgba(41, 10, 165, 0.3);
+        box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    }
+
+    .menuMobile-sidebar .menuMobile-logo-menu {
+        display: flex;
+        align-items: center;
+        width: 100%;
+        height: 70px;
+    }
+
+    .menuMobile-sidebar .menuMobile-logo-menu .menuMobile-logo {
+        font-size: 25px;
+        color: #212427;
+        pointer-events: none;
+        opacity: 0;
+        transition: .3s;
+    }
+
+    .menuMobile-sidebar.menuMobile-active .menuMobile-logo-menu .menuMobile-logo {
+        opacity: 1;
+        transition-delay: .2s;
+    }
+
+    .menuMobile-sidebar .menuMobile-logo-menu .menuMobile-toggle-btn {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 40px;
+        height: 40px;
+        font-size: 55px;
+        color: #212427;
+        text-align: center;
+        line-height: 40px;
+        cursor: pointer;
+        transition: .5s;
+    }
+
+    .menuMobile-sidebar.menuMobile-active .menuMobile-logo-menu .menuMobile-toggle-btn {
+        left: 80%;
+    }
+
+    .menuMobile-sidebar .menuMobile-list {
+        position: fixed;
+        margin-top: 10px;
+        pointer-events: none;
+        left: -80px;
+    }
+
+    .menuMobile-sidebar.menuMobile-active .menuMobile-list {
+        left: 0;
+        margin-left: 20px;
+    }
+
+
+    .menuMobile-list .menuMobile-list-item {
+        list-style: none;
+        width: 100%;
+        height: 50px;
+        margin: 40px 0;
+        line-height: 50px;
+    }
+
+    .menuMobile-list .menuMobile-list-item a {
+        display: flex;
+        align-items: center;
+        font-size: 18px;
+        color: #212427;
+        text-decoration: none;
+        border-radius: 6px;
+        white-space: nowrap;
+        transition: .5s;
+    }
+
+    .menuMobile-sidebar.menuMobile-active .menuMobile-list .menuMobile-list-item.menuMobile-active a,
+    .menuMobile-list .menuMobile-list-item a:hover {
+        background: transparent;
+        transition: ease-in-out;
+    }
+
+
+    .menuMobile-sidebar.menuMobile-active .menuMobile-list .menuMobile-list-item.menuMobile-active a,
+    .menuMobile-list .menuMobile-list-item a:hover {
+        background: rgba(66, 58, 223, 0.588);
+        transition: 1s;
+    }
+
+    .menuMobile-list .menuMobile-list-item a .bx {
+        min-height: 50px;
+        height: 50px;
+        font-size: 30px;
+        margin-left: 10px;
+        text-align: center;
+        line-height: 50px;
+    }
+
+    .menuMobile-sidebar .menuMobile-link-name {
+        margin-left: 20px;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity .3s;
+    }
+
+    .menuMobile-sidebar.menuMobile-active .menuMobile-link-name {
+        opacity: 1;
+        pointer-events: auto;
+        transition-delay: calc(.1s * var(--i));
+    }
+}
+
+@media (max-height: 600px) {
+    .menuDesktop-list .menuDesktop-list-item {
+        margin: 20px 0;
+        line-height: 30px;
+    }
+
+    .menuMobile-list .menuMobile-list-item {
+        margin: 20px 0;
+        line-height: 30px;
+    }
+}

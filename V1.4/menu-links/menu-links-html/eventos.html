@@ -1,0 +1,244 @@
+<!--
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="/src/geral.css">
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="/menu-links/menu-links-css/eventos.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+
+<body>
+    <div class="header-container">
+        <div class="header">
+            <div class="informacoes">
+                <h1 class="infotxt">EVENTOS:</h1>
+            </div>
+        </div>
+    </div>
+    <div class="parent-master">
+        <nav class="menuDesktop-sidebar">
+            <div class="menuDesktop-logo-menu">
+                <h2 class="menuDesktop-logo">Uniso Mapp</h2>
+
+                <i class="bx bx-menu menuDesktop-toggle-btn"></i>
+            </div>
+            <ul class="menuDesktop-list">
+                <li class="menuDesktop-list-item">
+                    <a href="/index.html">
+                        <i class="bx bxs-map"></i>
+                        <span class="menuDesktop-link-name" style="--i:1;
+                        ">Mapa</span>
+                    </a>
+                </li>
+                <li class="menuDesktop-list-item menuDesktop-active">
+                    <a href="/menu-links/menu-links-html/eventos.html">
+                        <i class='bx bx-calendar-event'></i>
+                        <span class="menuDesktop-link-name" style="--i:2;
+                        ">Eventos</span>
+                    </a>
+                </li>
+                <li class="menuDesktop-list-item">
+                    <a href="/menu-links/menu-links-html/informacoes.html">
+                        <i class='bx bx-info-circle'></i>
+                        <span class="menuDesktop-link-name" style="--i:3;
+                        ">Informações</span>
+                    </a>
+                </li>
+                <li class="menuDesktop-list-item">
+                    <a href="/menu-links/menu-links-html/servicos.html">
+                        <i class='bx bx-notepad'></i>
+                        <span class="menuDesktop-link-name" style="--i:4;
+                        ">Serviços</span>
+                    </a>
+                </li>
+                <li class="menuDesktop-list-item">
+                    <a href="/menu-links/menu-links-html/guia-do-aluno.html">
+                        <i class='bx bx-chat'></i>
+                        <span class="menuDesktop-link-name" style="--i:6;
+                        ">Guia dos Alunos</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="menuMobile-sidebar">
+            <div class="menuMobile-logo-menu">
+                <h2 class="menuMobile-logo">Uniso Mapp</h2>
+
+                <i class="bx bx-menu menuMobile-toggle-btn"></i>
+            </div>
+
+            <ul class="menuMobile-list">
+                <li class="menuMobile-list-item">
+                    <a href="/index.html">
+                        <i class="bx bxs-map"></i>
+                        <span class="menuMobile-link-name" style="--i:1;
+                        ">Mapa</span>
+                    </a>
+                </li>
+                <li class="menuMobile-list-item menuMobile-active">
+                    <a href="/menu-links/menu-links-html/eventos.html">
+                        <i class='bx bx-calendar-event'></i>
+                        <span class="menuMobile-link-name" style="--i:2;
+                        ">Eventos</span>
+                    </a>
+                </li>
+                <li class="menuMobile-list-item">
+                    <a href="/menu-links/menu-links-html/informacoes.html">
+                        <i class='bx bx-info-circle'></i>
+                        <span class="menuMobile-link-name" style="--i:3;
+                        ">Informações</span>
+                    </a>
+                </li>
+                <li class="menuMobile-list-item">
+                    <a href="/menu-links/menu-links-html/servicos.html">
+                        <i class='bx bx-notepad'></i>
+                        <span class="menuMobile-link-name" style="--i:4;
+                        ">Serviços</span>
+                    </a>
+                </li>
+                <li class="menuMobile-list-item">
+                    <a href="/menu-links/menu-links-html/guia-do-aluno.html">
+                        <i class='bx bx-chat'></i>
+                        <span class="menuMobile-link-name" style="--i:6;
+                        ">Guia dos Alunos</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <div class="eventos-main">
+            <div class="eventos-slide-container swiper">
+                <div class="eventos-slide-content">
+                    <div class="eventos-card-wrapper swiper-wrapper">
+                        <div class="eventos-card swiper-slide">
+                            <div class="eventos-image-content">
+                                <div class="eventos-card-image">
+                                    <img src="/Imagens/eventos/card-images/card-apoio1.jpeg" alt="" class="eventos-card-img">
+                                </div>
+                            </div>
+                            <div class="eventos-card-content">
+                                <h2 class="eventos-name">Processos de desenvolvimento com I.A</h2>
+                                <div class="eventos-separator"></div>
+                                <p class="eventos-description">Local: Laboratório 107 apoio 1
+                                    <br>Data: Sábado - 04/05 <br>09:00 às 12:00
+                                </p>
+                                <button data-popup="eventos-popup1" class="eventos-open-btn eventos-saibamaisBtn">Saiba
+                                    mais...</button>
+                                <div id="eventos-popup1" class="eventos-popup">
+                                    <div class="eventos-popup-container">
+                                        <div class="eventos-popupimage">
+                                            <img src="/Imagens/eventos/popup-images/popup-image1.png" alt="">
+                                        </div>
+                                        <div class="eventos-popupBtncontainer"></div>
+                                        <button class="eventos-vernomapaBtn" id="verNoMapaIA">Veja no mapa!</button>
+                                        <button class="eventos-subscribeBtn">Inscreva-se!</button>
+                                        <div class="eventos-close">
+                                            <i class='bx bx-x'></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="eventos-card swiper-slide">
+                            <div class="eventos-image-content">
+                                <div class="eventos-card-image">
+                                    <img src="/Imagens/eventos/card-images/card-blocof.jpeg" alt="" class="eventos-card-img">
+                                </div>
+                            </div>
+                            <div class="eventos-card-content">
+                                <h2 class="eventos-name">Projeto integrador</h2>
+                                <div class="eventos-separator"></div>
+                                <p class="eventos-description">Local: Uniso<br>Data: Sábado - 03/06
+                                    <br>09:00 às 13:00 <br>17:00 às 21:00
+                                </p>
+                                <button onclick="redirecionar()" class="eventos-open-btn eventos-saibamaisBtn">Saiba
+                                    mais...</button>
+                            </div>
+                        </div>
+                        <div class="eventos-card swiper-slide">
+                            <div class="eventos-image-content">
+                                <div class="eventos-card-image">
+                                    <img src="/menu-links/integrador-cronograma.html" alt="" class="eventos-card-img">
+                                </div>
+                            </div>
+                            <div class="eventos-card-content">
+                                <h2 class="eventos-name">I.A aplicada em medicina</h2>
+                                <div class="eventos-separator"></div>
+                                <p class="eventos-description">Local: Auditório bloco F <br></br>
+                                    Data: 01/02 das 13h as 15h
+                                </p>
+                                <button data-popup="eventos-popup3" class="eventos-open-btn eventos-saibamaisBtn">Saiba
+                                    mais...</button>
+                                <div id="eventos-popup3" class="eventos-popup">
+                                    <button class="eventos-vernomapa"></button>
+                                    <button class="eventos-close">Voltar</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="eventos-card swiper-slide">
+                            <div class="eventos-image-content">
+                                <div class="eventos-card-image">
+                                    <img src="/Imagens/eventos-Imagens/a.jpg" alt="" class="eventos-card-img">
+                                </div>
+                            </div>
+                            <div class="eventos-card-content">
+                                <h2 class="eventos-name">I.A aplicada em medicina</h2>
+                                <div class="eventos-separator"></div>
+                                <p class="eventos-description">Local: Auditório bloco F <br></br>
+                                    Data: 01/02 das 13h as 15h
+                                </p>
+                                <button data-popup="eventos-popup4" class="eventos-open-btn eventos-saibamaisBtn">Saiba
+                                    mais...</button>
+                                <div id="eventos-popup4" class="eventos-popup">
+                                    <button class="eventos-vernomapa"></button>
+                                    <button class="eventos-close">Voltar</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="eventos-card swiper-slide">
+                            <div class="eventos-image-content">
+                                <div class="eventos-card-image">
+                                    <img src="/Imagens/eventos-Imagens/a.jpg" alt="" class="eventos-card-img">
+                                </div>
+                            </div>
+                            <div class="eventos-card-content">
+                                <h2 class="eventos-name">I.A aplicada em medicina</h2>
+                                <div class="eventos-separator"></div>
+                                <p class="eventos-description">Local: Auditório bloco F <br></br>
+                                    Data: 01/02 das 13h as 15h
+                                </p>
+                                <button data-popup="eventos-popup5" class="eventos-open-btn eventos-saibamaisBtn">Saiba
+                                    mais...</button>
+                                <div id="eventos-popup5" class="eventos-popup">
+                                    <button class="eventos-vernomapa"></button>
+                                    <button class="eventos-close">Voltar</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-button-next swiper-navBtn"></div>
+                <div class="swiper-button-prev swiper-navBtn"></div>
+                <div class="swiper-pagination"></div>
+            </div>
+        </div>
+    </div>
+</body>
+<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+<script src="/src/geral.js"></script>
+<script src="/menu-links/menu-links-js/eventos.js"></script>
+</body>
+
+</html>
+-->

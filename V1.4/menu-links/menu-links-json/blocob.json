@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "curso": "Publicidade e Propaganda",
+        "predio": "Bloco B",
+        "andar": "térreo",
+        "sala": "Estúdio para Produção Fotográfica",
+        "professor": "Mércia"
+    },
+    {
+        "id": 2,
+        "curso": "Relações Públicas",
+        "predio": "Bloco B",
+        "andar": "térreo",
+        "sala": "4Hub",
+        "professor": "Fábio  "
+    },
+    {
+        "id": 3,
+        "curso": "Jornalismo",
+        "predio": "Bloco B",
+        "andar": "térreo",
+        "sala": "Labcom",
+        "professor": "Fernando "
+    },
+    {
+        "id": 4,
+        "curso": "Publicidade e Propaganda",
+        "predio": "Bloco B",
+        "andar": "1º andar",
+        "sala": "BLB-101A",
+        "professor": "Angélica "
+    },
+    {
+        "id": 5,
+        "curso": "Publicidade e Propaganda",
+        "predio": "Bloco B",
+        "andar": "1º andar",
+        "sala": "BLB-101B",
+        "professor": "Angélica "
+    },
+    {
+        "id": 6,
+        "curso": "Publicidade e Propaganda",
+        "predio": "Bloco B",
+        "andar": "1º andar",
+        "sala": "BLB-102-A",
+        "professor": "Angélica "
+    },
+    {
+        "id": 7,
+        "curso": "Publicidade e Propaganda",
+        "predio": "Bloco B",
+        "andar": "1º andar",
+        "sala": "BLB-102-B",
+        "professor": "Mércia "
+    },
+    {
+        "id": 8,
+        "curso": "Jornalismo",
+        "predio": "Bloco B",
+        "andar": "1º andar",
+        "sala": "BLB-103",
+        "professor": "Mara "
+    },
+    {
+        "id": 9,
+        "curso": "Relações Públicas",
+        "predio": "Bloco B",
+        "andar": "1º andar",
+        "sala": "BLB-104-A",
+        "professor": "Mércia "
+    },
+    {
+        "id": 10,
+        "curso": "Publicidade e Propaganda",
+        "predio": "Bloco B",
+        "andar": "1º andar",
+        "sala": "BLB-105-A",
+        "professor": "Mércia "
+    },
+    {
+        "id": 11,
+        "curso": "Publicidade e Propaganda",
+        "predio": "Bloco B",
+        "andar": "1º andar",
+        "sala": "BLB-105-B",
+        "professor": "Mércia "
+    },
+    {
+        "id": 12,
+        "curso": "Relações Públicas",
+        "predio": "Bloco B",
+        "andar": "1º andar",
+        "sala": "BLB-107",
+        "professor": "Mércia "
+    },
+    {
+        "id": 13,
+        "curso": "Publicidade e Propaganda",
+        "predio": "Bloco B",
+        "andar": "1º andar",
+        "sala": "BLB-108",
+        "professor": "Mércia "
+    },
+    {
+        "id": 14,
+        "curso": "Publicidade e Propaganda",
+        "predio": "Bloco B",
+        "andar": "2º andar",
+        "sala": "BLB-201-A",
+        "professor": "Clayton"
+    },
+    {
+        "id": 15,
+        "curso": "Publicidade e Propaganda",
+        "predio": "Bloco B",
+        "andar": "2º andar",
+        "sala": "BLB-201-B",
+        "professor": "Clayton"
+    },
+    {
+        "id": 16,
+        "curso": "Publicidade e Propaganda",
+        "predio": "Bloco B",
+        "andar": "2º andar",
+        "sala": "BLB-202",
+        "professor": "Clayton"
+    },
+    {
+        "id": 17,
+        "curso": "Publicidade e Propaganda",
+        "predio": "Bloco B",
+        "andar": "2º andar",
+        "sala": "BLB-203",
+        "professor": "Clayton"
+    },
+    {
+        "id": 18,
+        "curso": "Publicidade e Propaganda",
+        "predio": "Bloco B",
+        "andar": "2º andar",
+        "sala": "BLB-204",
+        "professor": "Clayton"
+    },
+    {
+        "id": 19,
+        "curso": "Publicidade e Propaganda",
+        "predio": "Bloco B",
+        "andar": "2º andar",
+        "sala": "BLB-205A",
+        "professor": "Clayton"
+    },
+    {
+        "id": 20,
+        "curso": "Publicidade e Propaganda",
+        "predio": "Bloco B",
+        "andar": "2º andar",
+        "sala": "BLB-205-B",
+        "professor": "Clayton "
+    }
+]

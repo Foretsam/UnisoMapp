@@ -1,0 +1,1174 @@
+[
+    {
+        "id": 1,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 205",
+        "professor": "Rodolfo",
+        "horario": "9h - 10h",
+        "tema": "Daily Company - Gestão de pequenos negócios"
+    },
+
+    {
+        "id": 2,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 205",
+        "professor": "Rodolfo",
+        "horario": "9h - 10h",
+        "tema": "AlphaTech - Interface Web da empresa AlphaTech"
+    },
+    {
+        "id": 3,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 205",
+        "professor": "Rodolfo",
+        "horario": "10h - 11h",
+        "tema": "Fuel+ - Busca inteligente de postos de combustível"
+    },
+    {
+        "id": 4,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 205",
+        "professor": "Yuri",
+        "horario": "10h - 11h",
+        "tema": "Gazoze - Localização de postos de combustível"
+    },
+    {
+        "id": 5,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 205",
+        "professor": "Yuri",
+        "horario": "10h - 11h",
+        "tema": "UnisoBarber - Sistema para gestão de barbearia"
+    },
+    {
+        "id": 6,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 205",
+        "professor": "Michel",
+        "horario": "11h - 12h",
+        "tema": "Catalogação trabalhos artísticos"
+    },
+    {
+        "id": 7,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 205",
+        "professor": "Michel",
+        "horario": "11h - 12h",
+        "tema": "Sistema para venda de peças para automóveis"
+    },
+    {
+        "id": 8,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 205",
+        "professor": "Michel",
+        "horario": "11h - 12h",
+        "tema": "Agendamento de serviços - Elétrica, Marcenaria"
+    },
+    {
+        "id": 9,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 206",
+        "professor": "Michel",
+        "horario": "9h - 10h",
+        "tema": "Venda de servilo cabeamento estruturado"
+    },
+    {
+        "id": 10,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 206",
+        "professor": "Michel",
+        "horario": "9h - 10h",
+        "tema": "Portal de venda de computadores"
+    },
+    {
+        "id": 11,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 206",
+        "professor": "Bruno",
+        "horario": "10h - 11h",
+        "tema": "Aplicativo de delivery para uma pastelaria"
+    },
+    {
+        "id": 12,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 208",
+        "professor": "Rodolfo",
+        "horario": "9h - 10h",
+        "tema": "UNISO Eats - Melhorar atendimento das cantinas"
+    },
+    {
+        "id": 13,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 208",
+        "professor": "Rodolfo",
+        "horario": "9h - 10h",
+        "tema": "UNIMAP - Facilitar deslocamento de alunos"
+    },
+    {
+        "id": 14,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 208",
+        "professor": "Rodolfo",
+        "horario": "10h - 11h",
+        "tema": "Vanguarda - Aprimorar layout do grupo de TI da Uniso"
+    },
+    {
+        "id": 15,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 208",
+        "professor": "Rodolfo",
+        "horario": "10h - 11h",
+        "tema": "UniFood - Melhorar atendimento das cantinas"
+    },
+    {
+        "id": 16,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 208",
+        "professor": "Yuri / Rodolfo",
+        "horario": "11h - 12h",
+        "tema": "Ponto Uniso - Facilitar a chamada na UNISO"
+    },
+    {
+        "id": 17,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 208",
+        "professor": "Rodolfo",
+        "horario": "11h - 12h",
+        "tema": "Ponto Uniso - Facilitar presenças e listas de chamada"
+    },
+    {
+        "id": 18,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 209",
+        "professor": "Michel",
+        "horario": "9h - 10h",
+        "tema": "Mapa Interno da Uniso - Localização Indoor"
+    },
+    {
+        "id": 19,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 209",
+        "professor": "Michel",
+        "horario": "9h - 10h",
+        "tema": "Gerenciamento de atividades complementares"
+    },
+    {
+        "id": 20,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 210",
+        "professor": "Rodolfo",
+        "horario": "9h - 10h",
+        "tema": "SpeedShip - Plataforma para entregadores/oportunidades de trabalho"
+    },
+    {
+        "id": 21,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 210",
+        "professor": "Michel",
+        "horario": "9h - 10h",
+        "tema": "Gestão de estoque WMS"
+    },
+    {
+        "id": 22,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 210",
+        "professor": "Michel",
+        "horario": "10h - 11h",
+        "tema": "Lógistica - Emissão de Invoice"
+    },
+    {
+        "id": 23,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 210",
+        "professor": "Michel",
+        "horario": "10h - 11h",
+        "tema": "Agendamento de fornecedores/entrega"
+    },
+    {
+        "id": 24,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 211",
+        "professor": "Rodolfo",
+        "horario": "9h - 10h",
+        "tema": "INFINITY GAMES - Plataforma online de games"
+    },
+    {
+        "id": 25,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 211",
+        "professor": "Michel",
+        "horario": "9h - 10h",
+        "tema": "Software MRP"
+    },
+    {
+        "id": 26,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 213",
+        "professor": "Yuri",
+        "horario": "9h - 10h",
+        "tema": "ICAP - Saúde - Site/APP para facilitar identificação de alergicos"
+    },
+    {
+        "id": 27,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 213",
+        "professor": "Yuri",
+        "horario": "9h - 10h",
+        "tema": "Nutrical - Facilitar a elaboração de cardapios saudáveis"
+    },
+    {
+        "id": 28,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 213",
+        "professor": "Michel",
+        "horario": "10h - 11h",
+        "tema": "Site - Unidade São Vicente de Paulo"
+    },
+    {
+        "id": 29,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 213",
+        "professor": "Michel",
+        "horario": "10h - 11h",
+        "tema": "Venda de produtos odontológicos"
+    },
+    {
+        "id": 30,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 213",
+        "professor": "Bruno",
+        "horario": "11h - 12h",
+        "tema": "Sistema de agendamento de consultas para clínicas odontológicas universitárias"
+    },
+    {
+        "id": 31,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 213",
+        "professor": "Bruno",
+        "horario": "11h - 12h",
+        "tema": "DOASAN - Sistema para doação de sangue no hemonúcleo"
+    },
+    {
+        "id": 32,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 214",
+        "professor": "Bruno",
+        "horario": "9h - 10h",
+        "tema": "FITCONNECT - Solução tecnológica para academias"
+    },
+    {
+        "id": 33,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 214",
+        "professor": "Bruno",
+        "horario": "9h - 10h",
+        "tema": "ISE - Sistema de Gerenciamento de Consultas e Exames"
+    },
+    {
+        "id": 34,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 214",
+        "professor": "Bruno",
+        "horario": "10h - 11h",
+        "tema": "TONS DE BELEZA - Sistema de gerenciamento de cosméticos"
+    },
+    {
+        "id": 35,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 215",
+        "professor": "Rodolfo",
+        "horario": "9h - 10h",
+        "tema": "Computacional National Developers - Gestão de dados escola/aluno"
+    },
+    {
+        "id": 36,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 215",
+        "professor": "Yuri / Rodolfo",
+        "horario": "9h - 10h",
+        "tema": "EditTexto - App para escolas/realização de avaliação"
+    },
+    {
+        "id": 37,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 215",
+        "professor": "Michel",
+        "horario": "10h - 11h",
+        "tema": "Energia renovável"
+    },
+    {
+        "id": 38,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 215",
+        "professor": "Michel",
+        "horario": "10h - 11h",
+        "tema": "Chatbot - Formatação de documentos"
+    },
+    {
+        "id": 39,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 215",
+        "professor": "Bruno",
+        "horario": "10h - 11h",
+        "tema": "BIOTECH - Aplicativo de dados e informações acadêmicas biológicas"
+    },
+    {
+        "id": 40,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 217",
+        "professor": "Yuri",
+        "horario": "9h - 10h",
+        "tema": "MIW - Gestão financeira simples "
+    },
+    {
+        "id": 41,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 217",
+        "professor": "Michel",
+        "horario": "9h - 10h",
+        "tema": "Gestão PET - Acompanhamento Vacinas"
+    },
+    {
+        "id": 42,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 217",
+        "professor": "Yuri",
+        "horario": "10h - 11h",
+        "tema": "Buy&Finp - Simulador financiamento Imobiliario"
+    },
+    {
+        "id": 43,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 217",
+        "professor": "Bruno",
+        "horario": "10h - 11h",
+        "tema": "PETSHOP GLAMOUR - Sistema CRM para Petshops"
+    },
+    {
+        "id": 44,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 217",
+        "professor": "Bruno",
+        "horario": "11h - 12h",
+        "tema": "MEU FINANCEIRO - Gestão de finanças pessoais"
+    },
+    {
+        "id": 45,
+        "curso": "Ciências de Dados",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 213",
+        "professor": "Denicezar",
+        "horario": "10h - 11h",
+        "tema": "TRANSCRIÇÕES MÉDICAS"
+    },
+    {
+        "id": 46,
+        "curso": "Ciências de Dados",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 206",
+        "professor": "Denicezar",
+        "horario": "10h - 11h",
+        "tema": "AGROW"
+    },
+    {
+        "id": 47,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 204",
+        "professor": "Paulo",
+        "horario": "9h - 10h",
+        "tema": "Robô sumô de 3Kg"
+    },
+    {
+        "id": 48,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 204",
+        "professor": "Paulo",
+        "horario": "9h - 10h",
+        "tema": "Cortina automatizada por som (palmas)"
+    },
+    {
+        "id": 49,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 204",
+        "professor": "Paulo",
+        "horario": "10h - 11h",
+        "tema": "Contagem automatizada de objetos com arduíno"
+    },
+    {
+        "id": 50,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 204",
+        "professor": "Paulo",
+        "horario": "10h - 11h",
+        "tema": "Braço inteligente com arduíno"
+    },
+    {
+        "id": 51,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 204",
+        "professor": "Paulo",
+        "horario": "10h - 11h",
+        "tema": "Smart Clothesline - Cobertura automatizada com arduíno"
+    },
+    {
+        "id": 52,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 204",
+        "professor": "Paulo",
+        "horario": "11h - 12h",
+        "tema": "Mão Tech - Mão Articulada controlada por Arduíno"
+    },
+    {
+        "id": 53,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 204",
+        "professor": "Rodolfo",
+        "horario": "11h - 12h",
+        "tema": "Multimídia no Voyage 88"
+    },
+    {
+        "id": 54,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 206",
+        "professor": "Paulo",
+        "horario": "10h - 11h",
+        "tema": "Workflow - Gerenciador de Tarefas"
+    },
+    {
+        "id": 55,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 206",
+        "professor": "Paulo",
+        "horario": "10h - 11h",
+        "tema": "Lista de tarefas"
+    },
+    {
+        "id": 56,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 206",
+        "professor": "Yuri",
+        "horario": "11h - 12h",
+        "tema": "Dream Trip - um uber de viagens"
+    },
+    {
+        "id": 57,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 209",
+        "professor": "Paulo",
+        "horario": "10h - 11h",
+        "tema": "UniNav - Analisador de melhores rotas da Uniso"
+    },
+    {
+        "id": 58,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 209",
+        "professor": "Yuri",
+        "horario": "10h - 11h",
+        "tema": "Uniso Map - Mapa interativo da UNISO"
+    },
+    {
+        "id": 59,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 209",
+        "professor": "Yuri",
+        "horario": "11h - 12h",
+        "tema": "UniPapers - Portifólio de pesquisas e notícias"
+    },
+    {
+        "id": 60,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 211",
+        "professor": "Paulo",
+        "horario": "9h - 10h",
+        "tema": "Reconhecimento de imagens com machine learning e Python"
+    },
+    {
+        "id": 61,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 211",
+        "professor": "Paulo",
+        "horario": "10h - 11h",
+        "tema": "Sistema de Avaliação entre Gestor e Colaborador (Sistema 360)"
+    },
+    {
+        "id": 62,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 211",
+        "professor": "Paulo",
+        "horario": "10h - 11h",
+        "tema": "Intelichef - Otimizador de pedidos com IA + Whatsapp"
+    },
+    {
+        "id": 63,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 211",
+        "professor": "Rodolfo",
+        "horario": "10h - 11h",
+        "tema": "Jogo - A lenda de Ying"
+    },
+    {
+        "id": 64,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 211",
+        "professor": "Rodolfo",
+        "horario": "11h - 12h",
+        "tema": "Aplicativo de comunicação alternativa e aumentativa"
+    },
+    {
+        "id": 65,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 211",
+        "professor": "Rodolfo",
+        "horario": "11h - 12h",
+        "tema": "MOONSHINER - Jogo"
+    },
+    {
+        "id": 67,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 211",
+        "professor": "Yuri",
+        "horario": "11h - 12h",
+        "tema": "Linkedu: um tinder entre empresas e estágiários"
+    },
+    {
+        "id": 68,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 212",
+        "professor": "Garcia",
+        "horario": "9h - 10h",
+        "tema": "MEHELPA - FOMENTAR E PROMOVER O AUXÍLIO MÚTUO ENTRE OS ALUNOS"
+    },
+    {
+        "id": 69,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 212",
+        "professor": "Garcia",
+        "horario": "9h - 10h",
+        "tema": "AUTOLIGHT: SISTEMA DE LUZES COM DETECÇÃO AUTOMÁTICA DE PRESENÇA E MOVIMENTO"
+    },
+    {
+        "id": 70,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 212",
+        "professor": "Garcia",
+        "horario": "10h - 11h",
+        "tema": "CAPACETE DE SEGURANÇA COM SENSOR DE IMPACTO"
+    },
+    {
+        "id": 71,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 212",
+        "professor": "Garcia",
+        "horario": "10h - 11h",
+        "tema": "ECOBUCKS: INCENTIVO AO DESCARTE CONSCIENTE"
+    },
+    {
+        "id": 72,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 212",
+        "professor": "Garcia",
+        "horario": "10h - 11h",
+        "tema": "CRISTALUNI — DISPOSITIVO QUE INFORMA O CONSUMO DE ÁGUA"
+    },
+    {
+        "id": 73,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 212",
+        "professor": "Garcia",
+        "horario": "11h - 12h",
+        "tema": "INSIGHT - CRM"
+    },
+    {
+        "id": 74,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 212",
+        "professor": "Garcia",
+        "horario": "11h - 12h",
+        "tema": "ATOMOX - ACOMPANHAR A QUALIDADE DO AR EM ESPAÇOS URBANOS E INDUSTRIAIS"
+    },
+    {
+        "id": 75,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 214",
+        "professor": "Paulo",
+        "horario": "10h - 11h",
+        "tema": "Reconhecimento de EPI's a partir de Aprendizado de Máquinas"
+    },
+    {
+        "id": 76,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 214",
+        "professor": "Paulo",
+        "horario": "11h - 12h",
+        "tema": "SafeJob - Checklist para Segurança do Trabalho"
+    },
+    {
+        "id": 77,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 214",
+        "professor": "Rodolfo",
+        "horario": "11h - 12h",
+        "tema": "Aplicativo de Treinos e Dietas Digitais "
+    },
+    {
+        "id": 78,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 215",
+        "professor": "Rodolfo",
+        "horario": "11h - 12h",
+        "tema": "Jogo educativo para crianças"
+    },
+    {
+        "id": 79,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 215",
+        "professor": "Rodolfo",
+        "horario": "11h - 12h",
+        "tema": "UNIESG - Práticas sutentáveis, sociais e de governança"
+    },
+    {
+        "id": 80,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 217",
+        "professor": "Rodolfo",
+        "horario": "9h - 10h",
+        "tema": "Educação financeira"
+    },
+    {
+        "id": 81,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 217",
+        "professor": "Paulo",
+        "horario": "10h - 11h",
+        "tema": "Astolphus: mini-rastreador para pets"
+    },
+    {
+        "id": 82,
+        "curso": "Engenharia da Computação",
+        "predio": "Bloco F",  
+        "andar": "2º andar",
+        "sala": "BLF 217",
+        "professor": "Rodolfo",
+        "horario": "11h - 12h",
+        "tema": "FoodDog - Dispositivo de alimentação animal"
+    },
+    {
+        "id": 83,
+        "curso": "Logística",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-114",
+        "professor": "José",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 84,
+        "curso": "Gestão de Recursos Humanos",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-115",
+        "professor": "Argemiro",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 85,
+        "curso": "Ciências Biológicas",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-116",
+        "professor": "Heitor",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 86,
+        "curso": "Ciências Biológicas",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-117",
+        "professor": "Heitor",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 87,
+        "curso": "Direito",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "Auditório Bloco F",
+        "professor": "Alan - Fernando - José - Maria",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 88,
+        "curso": "Direito",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "Auditório EMI",
+        "professor": "Alan - Fernando - José - Maria",
+        "horario": "",
+        "tema": ""
+
+    },
+    {
+        "id": 89,
+        "curso": "Jogos Digitais",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "Game Lab",
+        "professor": "Caio",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 90,
+        "curso": "Jogos Digitais",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "Laboratório Insight",
+        "professor": "Caio",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 91,
+        "curso": "Publicidade e Propaganda",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-104",
+        "professor": "Bruno",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 92,
+        "curso": "Marketing",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-105",
+        "professor": "Marcelo",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 93,
+        "curso": "Logística",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-105",
+        "professor": "José",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 94,
+        "curso": "Gestão da Qualidade",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-106",
+        "professor": "José",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 95,
+        "curso": "Ciências Biológicas",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-107",
+        "professor": "Heitor",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 96,
+        "curso": "Comércio Exterior",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-108",
+        "professor": "Solange",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 97,
+        "curso": "Gestão Comercial",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-108",
+        "professor": "Solange",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 98,
+        "curso": "Gestão da Qualidade",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-108",
+        "professor": "Solange",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 99,
+        "curso": "Gestão Financeira",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-108",
+        "professor": "Solange",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 100,
+        "curso": "Logística",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-108",
+        "professor": "Solange",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 101,
+        "curso": "Marketing",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-108",
+        "professor": "Solange",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 102,
+        "curso": "Comércio Exterior",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-109",
+        "professor": "Solange",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 103,
+        "curso": "Gestão Comercial",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-109",
+        "professor": "Solange",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 104,
+        "curso": "Gestão da Qualidade",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-109",
+        "professor": "Solange",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 105,
+        "curso": "Gestão Financeira",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-109",
+        "professor": "Solange",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 106,
+        "curso": "Logística",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-109",
+        "professor": "Solange",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 107,
+        "curso": "Marketing",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-109",
+        "professor": "Solange",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 108,
+        "curso": "Publicidade e Propaganda",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-110",
+        "professor": "Bruno",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 109,
+        "curso": "Comércio Exterior",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-111",
+        "professor": "Sergio",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 110,
+        "curso": "Gestão Comercial",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-112",
+        "professor": "Marinete - Thiago",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 111,
+        "curso": "Gestão Financeira",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-112",
+        "professor": "Marinete - Thiago",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 112,
+        "curso": "Marketing",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-112",
+        "professor": "Marinete - Thiago",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 113,
+        "curso": "Processos Gerenciais",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-112",
+        "professor": "Marinete - Thiago",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 114,
+        "curso": "Gestão da Qualidade",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-113",
+        "professor": "Adilson",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 115,
+        "curso": "Gestão de Recursos Humanos",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-113",
+        "professor": "Adilson",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 116,
+        "curso": "Gestão Financeira",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-113",
+        "professor": "Adilson",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 117,
+        "curso": "Logística",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-113",
+        "professor": "Adilson",
+        "horario": "",
+        "tema": ""
+    },
+    {
+        "id": 118,
+        "curso": "Gestão da Qualidade",
+        "predio": "Bloco F",
+        "andar": "andar",
+        "sala": "BLF-114",
+        "professor": "José",
+        "horario": "",
+        "tema": ""
+    }
+]

@@ -1,0 +1,219 @@
+/* parent-master age como body da página (Schuab)*/
+.parent-master {
+    width: 100%;
+    height: 100vh;
+    background-color: #fff;
+}
+
+/* index-main englobará tudo de único que essa página terá (Schuab)*/
+#map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 0;
+}
+
+.index-main {
+    /* placeholder */
+    background-color: #fff;
+}
+
+
+/* CARROSSEL */
+.carrossel-button-container {
+    position: absolute;
+    /* Posiciona o contêiner de botões de forma absoluta no contêiner */
+    top: 75px;
+    /* O contêiner de botões começa #px abaixo do topo do contêiner */
+    left: 100px;
+
+    margin-top: 20px;
+    /* O contêiner de botões termina 10px antes da direita do contêiner */
+    display: flex;
+    /* Os botões dentro do contêiner são exibidos como elementos flexíveis */
+    overflow-x: scroll;
+    /* Permite a rolagem horizontal se os botões excederem a largura do contêiner */
+    scroll-snap-type: x mandatory;
+    /* Força a rolagem para parar no início de cada botão */
+    -webkit-overflow-scrolling: touch;
+    /* Permite rolagem suave em dispositivos com tela sensível ao toque */
+    width: 82%;
+    /* A largura do contêiner de botões é de #px */
+    height: 30px;
+    /* A altura do contêiner de botões é de #px */
+
+    z-index: 1;
+    /* O contêiner de botões aparece na frente de outros elementos */
+}
+
+.carrossel-action-button {
+    flex: 0 0 auto;
+    /* O botão não cresce ou encolhe, mas é dimensionado automaticamente */
+    width: 130px;
+    height: 30px;
+    /* A largura do botão é de 100px */
+    scroll-snap-align: start;
+    /* A rolagem para no início do botão */
+    scroll-snap-stop: always;
+    /* A rolagem sempre para no botão */
+    margin-right: 10px;
+    /* Há uma margem de #px à direita do botão */
+    font-weight: 500;
+    font-size: 14px;
+    /* O tamanho da fonte do botão é de 14px */
+    /* background-color: #ffff; */
+    /* A cor de fundo do botão é azul */
+    color: rgb(0, 0, 0);
+    /* A cor do texto do botão é branca */
+    border: 2px solid;
+    /* O botão não tem borda */
+    border-radius: 50px;
+    /* O botão tem bordas arredondadas */
+    cursor: pointer;
+    /* O cursor se torna um ponteiro quando passa sobre o botão */
+    margin-right: 5px;
+    /* Há uma margem de #px à direita do botão */
+    border-color: #6b4ae6;
+    /*Define a cor da borda no botão*/
+    background-color: #ffffffc4;
+
+    box-shadow: 3px 3px 1px rgba(66, 58, 223, 0.588);
+
+}
+
+/* Personaliza a barra de rolagem */
+.carrossel-button-container {
+    white-space: nowrap;
+    height: 34px;
+    /* O texto dentro do contêiner de botões não quebra linhas */
+    overflow-x: auto;
+    /* Permite a rolagem horizontal se o texto exceder a largura do contêiner */
+    scrollbar-width: none;
+    /* A barra de rolagem é invisível */
+    scrollbar-color: #ccc transparent;
+    /* A cor da barra de rolagem é cinza claro */
+
+
+}
+
+#show-clear {
+    background-color: rgba(255, 0, 0, 0.534);
+    width: 80px;
+}
+
+#locate-user {
+    background-color: rgba(172, 140, 223, 0.588);
+}
+
+/* #testBox {} */
+
+/*1.4.1 barra de pesquisa*/
+.search-input {
+    background-color: #ffffffc4;
+    position: absolute;
+    /* Adicione esta linha se a barra de pesquisa não tiver uma posição definida */
+    z-index: 1;
+    /* Aumente o z-index para um valor maior */
+    /* o restante do seu código */
+    box-shadow: 4px 4px 1px rgba(66, 58, 223, 0.588);
+    width: 400px;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #835cee;
+    border-radius: 50px;
+    /* flex: 0 0 auto; */
+    left: 100px;
+    margin-top: 25px;
+
+}
+
+.search-input::placeholder {
+    opacity: 1;
+    color: black;
+}
+
+@media (max-width: 700px) {
+    :root {
+        /*Definição de váriaveis para facilitar o acesso em outras partes*/
+        --clr: #222327
+    }
+
+    .carrossel-button-container {
+        position: absolute;
+        /* Posiciona o contêiner de botões de forma absoluta no contêiner */
+        top: 20px;
+        /* O contêiner de botões começa #px abaixo do topo do contêiner */
+        left: 90px;
+
+        margin-top: 65px;
+        /* O contêiner de botões termina 10px antes da direita do contêiner */
+        display: flex;
+        /* Os botões dentro do contêiner são exibidos como elementos flexíveis */
+        overflow-x: auto;
+        /* Permite a rolagem horizontal se os botões excederem a largura do contêiner */
+        scroll-snap-type: x mandatory;
+        /* Força a rolagem para parar no início de cada botão */
+        -webkit-overflow-scrolling: touch;
+        /* Permite rolagem suave em dispositivos com tela sensível ao toque */
+        width: 62%;
+        /* A largura do contêiner de botões é de #px */
+        height: 35px;
+        /* A altura do contêiner de botões é de #px */
+        z-index: 1;
+        /* O contêiner de botões aparece na frente de outros elementos */
+    }
+
+    .carrossel-action-button {
+        flex: 0 0 auto;
+        /* O botão não cresce ou encolhe, mas é dimensionado automaticamente */
+        width: 130px;
+        /* A largura do botão é de 100px */
+        scroll-snap-align: start;
+        /* A rolagem para no início do botão */
+        scroll-snap-stop: always;
+        /* A rolagem sempre para no botão */
+        margin-right: 10px;
+        /* Há uma margem de #px à direita do botão */
+        font-weight: 500;
+        font-size: 14px;
+        /* O tamanho da fonte do botão é de 14px */
+
+        /* A cor de fundo do botão é azul */
+
+        /* A cor do texto do botão é branca */
+        /* border: 2px solid; */
+        /* O botão não tem borda */
+        border-radius: 50px;
+        /* O botão tem bordas arredondadas */
+        cursor: pointer;
+        /* O cursor se torna um ponteiro quando passa sobre o botão */
+        margin-right: 5px;
+        /* Há uma margem de #px à direita do botão */
+
+        /*Define a cor da borda no botão*/
+
+    }
+
+    /* Personaliza a barra de rolagem */
+    .carrossel-button-container {
+        white-space: nowrap;
+        /* O texto dentro do contêiner de botões não quebra linhas */
+        overflow-x: auto;
+        /* Permite a rolagem horizontal se o texto exceder a largura do contêiner */
+        scrollbar-width: none;
+        /* A barra de rolagem é invisível */
+        scrollbar-color: #ccc transparent;
+        /* A cor da barra de rolagem é cinza claro */
+    }
+
+    .search-input {
+        /* o restante do seu código */
+        width: 63%;
+        left: 90px;
+
+    }
+}
+
+/* Carrossel fim */

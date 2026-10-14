@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "curso": "Fisioterapia",
+        "predio": "Bloco A",
+        "andar": "térreo",
+        "sala": "Laboratório Integrado de Movimento Humano",
+        "professor": "Amanda  - Arislander - Carla - Lauren "
+    },
+    {
+        "id": 2,
+        "curso": "Terapia Ocupacional",
+        "predio": "Bloco A",
+        "andar": "1º andar",
+        "sala": "BLA-101-A",
+        "professor": "Tatiana "
+    },
+    {
+        "id": 3,
+        "curso": "Terapia Ocupacional",
+        "predio": "Bloco A",
+        "andar": "1º andar",
+        "sala": "BLA-101-B",
+        "professor": "Tatiana "
+    },
+    {
+        "id": 4,
+        "curso": "Psicologia",
+        "predio": "Bloco A",
+        "andar": "1º andar",
+        "sala": "BLA-102A",
+        "professor": "Camila "
+    },
+    {
+        "id": 5,
+        "curso": "Relações Internacionais",
+        "predio": "Bloco A",
+        "andar": "1º andar",
+        "sala": "BLA-102-B",
+        "professor": "Karina "
+    },
+    {
+        "id": 6,
+        "curso": "Relações Internacionais",
+        "predio": "Bloco A",
+        "andar": "1º andar",
+        "sala": "BLA-103",
+        "professor": "Fabricio "
+    },
+    {
+        "id": 7,
+        "curso": "Engenharia de Bioprocessos e Biotecnologia",
+        "predio": "Bloco A",
+        "andar": "1º andar",
+        "sala": "BLA-104-A",
+        "professor": "Lorenzo "
+    },
+    {
+        "id": 8,
+        "curso": "Relações Internacionais",
+        "predio": "Bloco A",
+        "andar": "1º andar",
+        "sala": "BLA-104-B",
+        "professor": "Fabricio "
+    },
+    {
+        "id": 9,
+        "curso": "Relações Internacionais",
+        "predio": "Bloco A",
+        "andar": "1º andar",
+        "sala": "BLA-105-A",
+        "professor": "Fabricio "
+    },
+    {
+        "id": 10,
+        "curso": "Farmácia",
+        "predio": "Bloco A",
+        "andar": "1º andar",
+        "sala": "BLA-105-B",
+        "professor": "Fábio "
+    },
+    {
+        "id": 11,
+        "curso": "Farmácia",
+        "predio": "Bloco A",
+        "andar": "1º andar",
+        "sala": "BLA-107",
+        "professor": "Fernando "
+    },
+    {
+        "id": 12,
+        "curso": "Farmácia",
+        "predio": "Bloco A",
+        "andar": "1º andar",
+        "sala": "BLA-108",
+        "professor": "Fernando "
+    },
+    {
+        "id": 13,
+        "curso": "Comércio Exterior",
+        "predio": "Bloco A",
+        "andar": "2º andar",
+        "sala": "BLA-201-A",
+        "professor": "Silvio "
+    },
+    {
+        "id": 14,
+        "curso": "Administração",
+        "predio": "Bloco A",
+        "andar": "2º andar",
+        "sala": "BLA-201-B",
+        "professor": "Daniel "
+    },
+    {
+        "id": 15,
+        "curso": "Comércio Exterior",
+        "predio": "Bloco A",
+        "andar": "2º andar",
+        "sala": "BLA-202",
+        "professor": "Silvio "
+    },
+    {
+        "id": 16,
+        "curso": "Biomedicina",
+        "predio": "Bloco A",
+        "andar": "2º andar",
+        "sala": "BLA-203",
+        "professor": "Romulo  "
+    },
+    {
+        "id": 17,
+        "curso": "Biomedicina",
+        "predio": "Bloco A",
+        "andar": "2º andar",
+        "sala": "BLA-204",
+        "professor": "Eric  "
+    },
+    {
+        "id": 18,
+        "curso": "Biomedicina",
+        "predio": "Bloco A",
+        "andar": "2º andar",
+        "sala": "BLA-205-A",
+        "professor": "Eric  "
+    },
+    {
+        "id": 19,
+        "curso": "Biomedicina",
+        "predio": "Bloco A",
+        "andar": "2º andar",
+        "sala": "BLA-205-B",
+        "professor": "Eric  "
+    },
+    {
+        "id": 20,
+        "curso": "Artes Visuais",
+        "predio": "Bloco A",
+        "andar": "2º andar",
+        "sala": "BLA-207",
+        "professor": "Mirella"
+    },
+    {
+        "id": 21,
+        "curso": "Psicologia",
+        "predio": "Bloco A",
+        "andar": "3º andar",
+        "sala": "BLA-301",
+        "professor": "Tatiana"
+    },
+    {
+        "id": 22,
+        "curso": "Psicologia",
+        "predio": "Bloco A",
+        "andar": "3º andar",
+        "sala": "BLA-302",
+        "professor": "Tatiana"
+    },
+    {
+        "id": 23,
+        "curso": "Psicologia",
+        "predio": "Bloco A",
+        "andar": "3º andar",
+        "sala": "BLA-303",
+        "professor": "Tatiana"
+    },
+    {
+        "id": 24,
+        "curso": "Engenharia Química",
+        "predio": "Bloco A",
+        "andar": "3º andar",
+        "sala": "BLA-304",
+        "professor": "Fabíola"
+    }
+]

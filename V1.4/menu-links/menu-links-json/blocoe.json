@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "curso": "Engenharia de Controle e Automação",
+        "predio": "Bloco E",
+        "andar": "térreo",
+        "sala": "BLE - 001 Laboratório de Pedagogia",
+        "professor": "Diego"
+    },
+    {
+        "id": 2,
+        "curso": "Engenharia Mecânica",
+        "predio": "Bloco E",
+        "andar": "térreo",
+        "sala": "BLE - 003 Laboratório Elemento de Máquinas",
+        "professor": "Hamilton"
+    },
+    {
+        "id": 3,
+        "curso": "Engenharia Mecânica",
+        "predio": "Bloco E",
+        "andar": "térreo",
+        "sala": "BLE - 005 Laboratório Motores à Combustão",
+        "professor": "Hamilton"
+    },
+    {
+        "id": 4,
+        "curso": "Engenharia Elétrica",
+        "predio": "Bloco E",
+        "andar": "térreo",
+        "sala": "BLE - 006 Laboratório de Máquinas Elétricas",
+        "professor": "José"
+    },
+    {
+        "id": 5,
+        "curso": "Engenharia de Controle e Automação",
+        "predio": "Bloco E",
+        "andar": "térreo",
+        "sala": "BLE - 007 Laboratório de Metrologia e Projeto Integrador",
+        "professor": "Roberto"
+    },
+    {
+        "id": 6,
+        "curso": "Engenharia de Controle e Automação",
+        "predio": "Bloco E",
+        "andar": "térreo",
+        "sala": "BLE - 009 Laboratório de Robótica e Automação",
+        "professor": "Henri"
+    },
+    {
+        "id": 7,
+        "curso": "Engenharia de Controle e Automação",
+        "predio": "Bloco E",
+        "andar": "térreo",
+        "sala": "BLE - 010 Laboratório de Eletricidade e Eletrônica",
+        "professor": "Diego"
+    },
+    {
+        "id": 8,
+        "curso": "Engenharia Química",
+        "predio": "Bloco E",
+        "andar": "térreo",
+        "sala": "BLE - 016 Laboratório de Materiais",
+        "professor": "Rossana"
+    },
+    {
+        "id": 9,
+        "curso": "Engenharia de Alimentos",
+        "predio": "Bloco E",
+        "andar": "térreo",
+        "sala": "BLE - 017 Laboratório Sensorial de  Alimentos",
+        "professor": "Andreza"
+    },
+    {
+        "id": 10,
+        "curso": "Engenharia Mecânica",
+        "predio": "Bloco E",
+        "andar": "térreo",
+        "sala": "BLE - 018 Laboratório de Desenho Técnico",
+        "professor": "Hamilton"
+    }
+]
